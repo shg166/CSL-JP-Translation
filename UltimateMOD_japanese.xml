@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UniqueName="ja" ReadableName="日本語">
+	<Translations>
+		<Translation ID="MOD_MODNAME" String="UltimateMod"/>
+		<Translation ID="MOD_DESCRIPTION" String=" 最高な都市を建設しましょう！"/>
+		<Translation ID="MOD_BETA" String=" このMODはベータ版です。安定性の保証やエラーが発生する可能性があります。"/>
+    
+		<!--WhatsNew MessageBox-->
+		<Translation ID="BTN_MSG_CLS" String="閉じる"/>
+		<Translation ID="BTN_MSG_DSA" String="次回から非表示"/>
+
+		<!--Harmony error Message-->
+		<Translation ID="ERR_HAR0" String="Harmony 2.0 MODでエラーが発生しました"/>
+		<Translation ID="ERR_HAR1" String="エラーが起きる原因として、考えられるのは以下の通りです。"/>
+		<Translation ID="ERR_HAR2" String="依存関係にある、必要なHarmony 2 MODがインストールされていません。"/>
+		<Translation ID="ERR_HAR3" String="古いMODや壊れたMODが、Harmony 2.0 MODの動作を妨げています。"/>
+		<Translation ID="ERR_FAT" String="正常にMODが起動できないため、動作をシャットダウンしました。"/>
+		<Translation ID="ERR_HAR" String="UltimateModは、必要なHarmony 2.0 MODのパッチ動作を完了できません。"/>
+		<Translation ID="MES_PAGE" String="詳細は、MODがあるSteamのワークショップを確認してください。"/>
+    
+		<!--Mod version Message-->
+		<!--<Translation ID ="UMod_UPD_2100_0" String="Update to Cities Harmony 2.0" />-->
+		<!--<Translation ID ="UMod_UPD_2100_1" String="Add Unlimited Goods"/>-->
+
+		<!--Menu Tabs-->
+		<Translation ID="TAB_INFO" String="情報"/>
+		<Translation ID="TAB_GENERAL" String="全般"/>
+		<Translation ID="TAB_GAMEPLAY" String="ゲームプレイ"/>
+		<Translation ID="TAB_ECONOMICAL" String="経済"/>
+		<Translation ID="TAB_FEATURE" String="機能"/>
+		<Translation ID="TAB_GOODS" String="産業"/>
+		<Translation ID="TAB_COSTMANAGER" String="コスト管理"/>
+
+		<!--Tab Info-->
+		<Translation ID="TAB_INFO_GROUP_INFO" String="情報:"/>
+		<Translation ID="TAB_INFO_LABEL_MODVERSION" String="MODのバージョン:"/>
+		<Translation ID="TAB_INFO_LABEL_GAMEVERSION" String="ゲームのバージョン:"/>
+		<Translation ID="TAB_INFO_BTN_STEAMDESCRIPTION" String="Steamの説明"/>
+		<Translation ID="TAB_INFO_BTN_RELASENOTES" String="更新履歴"/>
+		<Translation ID="TAB_INFO_BTN_LOGBUTTON" String="ログファイルを開く"/>
+		<Translation ID="TAB_INFO_BTN_HELPUS" String="翻訳にご協力ください"/>
+		<Translation ID="TAB_INFO_BTN_STABLEVERSION" String="安定版のバージョン"/>
+
+		<!--Tab Support-->
+		<!--<Translation ID ="TAB_SUPPORT_GROUP_SUPPORT" String="Support:"/>-->
+
+
+		<!--Tab General-->
+		<Translation ID="TAB_GENERAL_GROUP_SETTINGS" String="全般設定:"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_ENABLEACHIEVMENTS" String="実績解除を常に有効"/>
+
+		<Translation ID="TAB_GENERAL_CHKBOX_NOCHIRPER" String="Chirpyを無効化"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_DISABLEABANDONMENT" String="放棄を無効化"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_DISABLEFIRES" String="火災を無効化"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_ENABLEDAUTOCASH" String="AutoCashを有効化"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_SHOWINFODIALOG" String="AutoCashの警告情報を表示(ゲームの再読み込み不要)"/>
+
+		<Translation ID="TAB_GENERAL_GROUP_MILESTONES" String="マイルストーンの解除:"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKUNIQUEBUILDINGS" String="マイルストーンのユニーク施設を全て解除"/>
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKWONDERS" String="モニュメントの解除"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKWONDERS" String="モニュメントの解除"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKNATURALDISASTERS" String="Natural Disastersのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKNATURALDISASTERS" String="DLC Natural Disastersは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKAFTERDARK" String="After Darkのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKAFTERDARK" String="DLC After Darkは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKSNOWFALL" String="Snowfallのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKSNOWFALL" String="DLC Snowfallは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKDELUXE" String="Deluxe Editionのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKDELUXE" String="Deluxe Editionは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKEURO" String="ヨーロッパテーマのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKEURO" String="ヨーロッパテーマのランドマーク"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKMASSTRANSIT" String="Mass Transitのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKMASSTRANSIT" String="DLC Mass Transitは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKGREENCITIES" String="Green Citiesのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKGREENCITIES" String="DLC Green Citiesは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKCONCERTS" String="Concertsのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKCONCERTS" String="DLC Concertsは未インストール"/>
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKPARKLIFE" String="Parklifeのランドマーク"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKPARKLIFE" String="DLC Parklifeは未インストール"/>
+	
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKCAMPUS" String="Campusの建物"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKCAMPUS" String="DLC Campusは未インストール"/> 
+    
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKURBAN" String="Sunset Harborの建物"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKURBAN" String="DLC Sunset Harborは未インストール"/>
+
+		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKINDUSTRY" String="Industriesの建物"/>
+		<Translation ID="TAB_GENERAL_LBL_UNLOCKINDUSTRY" String="DLC Industriesは未インストール"/>
+    
+		<!--TAB GAMEPLAY-->
+		<Translation ID="TAB_GAMEPLAY_GROUP_POLLUTION" String="汚染の除去:"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_REMOVENOISEPOLLUTION" String="騒音公害"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_REMOVEGROUNDPOLLUTION" String="土壌汚染"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_REMOVEWATERPOLLUTION" String="水質汚染"/>
+
+		<!--<Translation ID ="TAB_GAMEPLAY_GROUP_RESOURCES" String="Unlimited Resources:"/>-->
+		<Translation ID="TAB_GAMEPLAY_GROUP_RESOURCES" String="資源の減少速度:"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_UNLIMITEDOIL" String="石油"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_UNLIMITEDORE" String="鉱石"/>
+
+		<Translation ID="TAB_GAMEPLAY_GROUP_COSTS_REFUND" String="維持費 &amp; 建設費:"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_MAINTENANCECOSTS" String="半額の維持費"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_CONSTRUCTIONECOST" String="半額の建設費"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_RELOCATIONCOST" String="半額の移転費"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_FULLREFUND" String="全額の返金(全額返金の有効化 - 半額返金を無効化)"/>
+
+		<Translation ID="TAB_GAMEPLAY_GROUP_EXTRAS" String="その他:"/>
+		<Translation ID="TAB_GAMEPLAY_CHKBOX_FULLDEMAND" String="都市需要を最高化"/>
+    
+		<!--TAB ECONOMICAL-->
+		<Translation ID="TAB_ECONOMICAL_GROUP_RICO_PUBLIC" String="RICO &amp; 公共収入の倍率:"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_RESIDENT" String="住宅の税収"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_OFFICE" String="オフィスの税収"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_COMMERCIAL" String="商業の税収"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_INDUSTRIAL" String="工業の税収"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_PTRANSPORT" String="公共交通の収入"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_TOURISM" String="観光客の収入"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_TAXI" String="タクシーの収入"/>
+		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_BEAUTIFICATION" String="パークエリアの収入"/>
+    
+		<!--TAB FEATURE OPTIONS-->
+		<Translation ID="TAB_FEATURE_GROUP_EASY_BUILD" String="摩天楼を簡単に作ろう！:"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_ATTRACTIVENESS" String="都市の魅力レベルを最高化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_ENTERTAINMENT" String="都市の娯楽レベルを最高化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_LANDVALUE" String="都市の地価レベルを最高化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_EDUCATION" String="都市の教育レベルを最高化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_HEALTH" String="都市の健康レベルを最高化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_CRIME" String="建物から犯罪発生を無効化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_DEATH" String="死亡者を除去して、新しい子供に置き換える"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_GARBAGE" String="建物からゴミ発生を無効化"/>
+		<Translation ID="TAB_FEATURE_LABEL_BETA" String="ここからはベータ機能で、エラーが発生する可能性があります"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_RADIOCOV" String="ラジオの発信範囲を最大化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_EARTHQUAKECOV" String="地震計の感知範囲を最大化"/>
+		<Translation ID="TAB_FEATURE_CHKBOX_FIREWATCHCOV" String="火の見櫓の監視範囲を最大化"/>
+	</Translations>
+</Language>

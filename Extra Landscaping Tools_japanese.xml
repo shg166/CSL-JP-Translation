@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UniqueName="ja" ReadableName="日本語">
+  <Translations>
+    <Translation ID="ELT_DESCRIPTION" String="ゲーム内でマップエディタの修景ツールを使用可能にします"/>
+    <!-- OPTIONS -->
+    <Translation ID="ELT_OPTION_RESOURCES_TOOL" String="天然資源ツール"/>
+    <Translation ID="ELT_OPTION_WATER_TOOL" String="水源ツール"/>
+    <Translation ID="ELT_OPTION_TERRAIN_TOOL" String="地形ツールの拡張"/>
+    <Translation ID="ELT_OPTION_TREE_BRUSH" String="ツリーブラシ"/>
+    <Translation ID="ELT_OPTION_TREE_PENCIL" String="ツリーペン"/>
+    <Translation ID="ELT_OPTION_TOPOGRAPHY" String="等高線を一緒に描画する"/>
+    <Translation ID="ELT_DITCH_TOOL" String="荒れ地"/>
+    <!--UI-->
+    <Translation ID="ELT_BRUSH_OPTIONS" String="ブラシの設定"/>
+    <Translation ID="ELT_WATER_OPTIONS" String="水源の設定"/>
+    <Translation ID="ELT_DITCH_BUTTON" String="荒れ地"/>
+    <Translation ID="ELT_SAND_BUTTON" String="砂地"/>
+    <Translation ID="ELT_SAND_DESCRIPTION" String="左クリックで、ブラシ下のエリアに砂地を塗ります。 &#13;&#10;右クリックでは、ブラシ下のエリアから砂地を除去します。"/>
+  </Translations>
+</Language>
