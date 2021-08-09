@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UniqueName="ja" ReadableName="日本語">
+  <Translations>
+    <Translation ID="DC_DESCRIPTION" String="クラシックな白色の昼間を取り戻します"/>
+	<!-- OPTIONS -->
+		<Translation ID="DC_OPTIONS_BASIC" String="基本的な機能 (全員に推奨)"/>
+		<Translation ID="DC_OPTIONS_ADVANCED" String="高度な機能 (副作用有り)"/>
+		<Translation ID="DC_OPTION_LUTS" String="クラシックなストックLUT"/>
+		<Translation ID="DC_OPTION_SUN_COLOR" String="クラシックな日光の色"/>
+		<Translation ID="DC_OPTION_SUN_INTENSITY" String="クラシックな日光の強さ"/>
+		<Translation ID="DC_OPTION_SUN_POSITION" String="クラシックな太陽の位置"/>
+		<Translation ID="DC_OPTION_FOG_EFFECT" String="クラシックなフォグエフェクト"/>
+		<Translation ID="DC_OPTION_FOG_COLOR" String="クラシックなフォグカラーで、AfterDarkのフォグを使用"/>
+    <Translation ID="DC_OPTION_CLASSIC_EFFECT_IF_CYCLE_ENABLED" String="昼夜サイクルがオンの場合、クラシックなフォグエフェクトを許可"/>
+  <!-- ACTIONS -->
+  	<Translation ID="DC_ACTIONS_SHORTCUTS" String="クイック選択"/>
+    <Translation ID="DC_ACTION_TO_CLASSIC" String="全てクラシックへ"/>
+    <Translation ID="DC_ACTION_TO_AD" String="全てAfterDarkへ"/>
+  </Translations>
+</Language>

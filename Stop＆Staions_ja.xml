@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="ja">
+
+  <translation id="Passengers" value="設定"/>
+  <translation id="MaximumPassengers" value="駅や停留所で待機する最大乗客数:"/>
+
+  <translation id="MaxWaitingPassengersBus" value="バス"/>
+  <translation id="MaxWaitingPassengersTrolleybus" value="トロリーバス"/>
+  <translation id="MaxWaitingPassengersEvacuationBus" value="避難バス"/>
+  <translation id="MaxWaitingPassengersTouristBus" value="観光バス"/>
+  <translation id="MaxWaitingPassengersTram" value="トラム"/>
+  <translation id="MaxWaitingPassengersMetro" value="地下鉄"/>
+  <translation id="MaxWaitingPassengersTrain" value="鉄道"/>
+  <translation id="MaxWaitingPassengersMonorail" value="モノレール"/>
+  <translation id="MaxWaitingPassengersShip" value="船舶"/>
+  <translation id="MaxWaitingPassengersAirplane" value="飛行機"/>
+  <translation id="MaxWaitingPassengersCableCar" value="ケーブルカー"/>
+  <translation id="MaxWaitingPassengersHotAirBalloon" value="飛行船"/>
+  <translation id="MaxWaitingPassengersHelicopter" value="旅客ヘリ"/>
+ 
+</language>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UniqueName="ja" ReadableName="日本語">
+  <Translations>
+    <Translation ID="PTA_DESCRIPTION" String="Propやツリーをどこでも好きな場所に配置しましょう"/>
+    <!-- OPTIONS -->
+    <Translation ID="PTA_OPTION_NO_UI" String="UIを非表示"/>
+    <Translation ID="PTA_OPTION_UNHIDE_PROPS" String="ロード時に全てのPropを表示(隠れたPropも含む)"/>
+    <Translation ID="PTA_OPTION_UNHIDE_TREES" String="ロード時に全てのツリーを表示(隠れたツリーも含む)"/>
+    <Translation ID="PTA_OPTION_ALWAYS_ON" String="常にAnarchyモードをオン"/>
+    <Translation ID="PTA_OPTION_DEFAULT_ON" String="Anarchyモードをデフォルトでオン(常にオンの場合は無効)"/>
+    <Translation ID="PTA_OPTION_COMBO" String="ホットキーのオン/オフで切り替え(常にオンの場合は無効)"/>
+    <!-- UI -->
+    <Translation ID="PTA_ON" String="Prop &amp; Tree Anarchy: On"/>
+    <Translation ID="PTA_OFF" String="Prop &amp; Tree Anarchy: Off"/>
+  </Translations>
+</Language>

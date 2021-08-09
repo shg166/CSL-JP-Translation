@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="ja" ReadableName="日本語">
+  <Translations>
+    <Translation ID="PAINTER-DESCRIPTION" String="ゲーム内で建物の色を変更できます"/>
+    <Translation ID="PAINTER-RESET" String="消去"/>
+    <Translation ID="PAINTER-COPY" String="コピー"/>
+    <Translation ID="PAINTER-PASTE" String="貼り付け"/>
+    <Translation ID="PAINTER-COLORIZE" String="色付け"/>
+    <Translation ID="PAINTER-INVERT" String="反転"/>
+    <Translation ID="PAINTER-RELOAD-REQUIRED" String="このオプションはゲームの再起動が必要です"/>
+    <Translation ID="PAINTER-R" String="R:"/>
+    <Translation ID="PAINTER-G" String="G:"/>
+    <Translation ID="PAINTER-B" String="B:"/>
+    <Translation ID="PAINTER-RED" String="RGBの赤色成分(0～1)"/>
+    <Translation ID="PAINTER-GREEN" String="RGBの緑色成分(0～1)"/>
+    <Translation ID="PAINTER-BLUE" String="RGBの青色成分(0～1)"/>
+  </Translations>
+</Language>

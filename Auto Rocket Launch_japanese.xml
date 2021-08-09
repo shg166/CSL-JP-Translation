@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UniqueName="ja" ReadableName="日本語">
+  <Translations>
+    <Translation ID="AUTO-ROCKET-LAUNCH-modName" String="Auto Rocket Launch"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-modDescription" String="ロケットを自動的に発射"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-enable" String="有効化"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-settings" String="設定"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-timeInterval" String="更新間隔 (秒)"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-autoFocus" String="オートフォーカス"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-modeSetting" String="ロケットの発射モード"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-immediateMode" String="即時発射モード"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-visitorMode" String="訪問者モード"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-targetVisitorNum" String="目標の訪問者数"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-immediateModeDescription" String="即時発射モード: ロケットの建造が完了後、すぐにロケットを発射します"/>
+    <Translation ID="AUTO-ROCKET-LAUNCH-visitorModeDescription" String="訪問者モード: 発射場への訪問者が、一定数に達するとロケットを発射します"/>
+  </Translations>
+</Language>
