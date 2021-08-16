@@ -5,9 +5,9 @@
     - [Google Drive](https://drive.google.com/drive/folders/13cCZ_7Rjl5MF67cwMrYMYlSfuIVL9_3b?usp=sharing) に移動
     - [One Drive](https://1drv.ms/f/s!ApPQKe2pLFHJvC1dCPsOAtxQn-Pq) に移動
 3. Steamのコレクションで、手動更新で日本語化出来るMODをまとめています。
-    - [MODの日本語化](https://steamcommunity.com/sharedfiles/filedetails/?id=2562905374) に移動
+    - [MODの日本語化](https://steamcommunity.com/sharedfiles/filedetails/?id=2562905374) のコレクションに移動
 4. 同じくSteamのコレクションで、日本語に対応したMODをまとめています。
-    - [日本語対応のMOD](https://steamcommunity.com/sharedfiles/filedetails/?id=2562905374) に移動
+    - [日本語対応のMOD](https://steamcommunity.com/sharedfiles/filedetails/?id=2562905374) のコレクションに移動
 
 ---
 
