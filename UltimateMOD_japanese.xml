@@ -1,145 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UniqueName="ja" ReadableName="日本語">
 	<Translations>
-		<Translation ID="MOD_MODNAME" String="UltimateMod"/>
-		<Translation ID="MOD_DESCRIPTION" String=" 最高な都市を建設しましょう！"/>
-		<Translation ID="MOD_BETA" String=" このMODはベータ版です。安定性の保証やエラーが発生する可能性があります。"/>
-    
-		<!--WhatsNew MessageBox-->
-		<Translation ID="BTN_MSG_CLS" String="閉じる"/>
-		<Translation ID="BTN_MSG_DSA" String="次回から非表示"/>
+		<Translation ID="UMBETA_NAME" String="UltimateMod"/>
+		<Translation ID="UMBETA_DESC" String=" 最高な都市を建設しましょう！"/>
+		<Translation ID="UMBETA_BETA" String=" このMODはベータ版です。安定性の保証やエラーが発生する可能性があります。"/>
+
+		<!--Mod version Message-->
+		<!--<Translation ID ="UMod_UPD_2110_0" String="..." />-->
+		<!--<Translation ID ="UMod_UPD_2110_1" String="..." />-->
+		<!--<Translation ID ="UMod_UPD_2110_2" String="..." />-->
+		<!--<Translation ID ="UMod_UPD_2110_3" String="..." />-->
 
 		<!--Harmony error Message-->
 		<Translation ID="ERR_HAR0" String="Harmony 2.0 MODでエラーが発生しました"/>
 		<Translation ID="ERR_HAR1" String="エラーが起きる原因として、考えられるのは以下の通りです。"/>
 		<Translation ID="ERR_HAR2" String="依存関係にある、必要なHarmony 2 MODがインストールされていません。"/>
 		<Translation ID="ERR_HAR3" String="古いMODや壊れたMODが、Harmony 2.0 MODの動作を妨げています。"/>
-		<Translation ID="ERR_FAT" String="正常にMODが起動できないため、動作をシャットダウンしました。"/>
-		<Translation ID="ERR_HAR" String="UltimateModは、必要なHarmony 2.0 MODのパッチ動作を完了できません。"/>
-		<Translation ID="MES_PAGE" String="詳細は、MODがあるSteamのワークショップを確認してください。"/>
-    
-		<!--Mod version Message-->
-		<!--<Translation ID ="UMod_UPD_2100_0" String="Update to Cities Harmony 2.0" />-->
-		<!--<Translation ID ="UMod_UPD_2100_1" String="Add Unlimited Goods"/>-->
+		<Translation ID="UMBETA_ERR_FAT" String="正常にMODが起動できないため、動作をシャットダウンしました。"/>
+		<Translation ID="UMBETA_ERR_HAR" String="UltimateModは、必要なHarmony 2.0 MODのパッチ動作を完了できません。"/>
+		<Translation ID="UMBETA_MES_PAGE" String="詳細は、MODがあるSteamのワークショップを確認してください。"/>
 
-		<!--Menu Tabs-->
-		<Translation ID="TAB_INFO" String="情報"/>
-		<Translation ID="TAB_GENERAL" String="全般"/>
-		<Translation ID="TAB_GAMEPLAY" String="ゲームプレイ"/>
-		<Translation ID="TAB_ECONOMICAL" String="経済"/>
-		<Translation ID="TAB_FEATURE" String="機能"/>
-		<Translation ID="TAB_GOODS" String="産業"/>
-		<Translation ID="TAB_COSTMANAGER" String="コスト管理"/>
+		<!--WhatsNew MessageBox-->
+		<Translation ID="UMBETA_MSG_CLS" String="閉じる"/>
+		<Translation ID="UMBETA_MSG_DSA" String="次回から非表示"/>
 
-		<!--Tab Info-->
-		<Translation ID="TAB_INFO_GROUP_INFO" String="情報:"/>
-		<Translation ID="TAB_INFO_LABEL_MODVERSION" String="MODのバージョン:"/>
-		<Translation ID="TAB_INFO_LABEL_GAMEVERSION" String="ゲームのバージョン:"/>
-		<Translation ID="TAB_INFO_BTN_STEAMDESCRIPTION" String="Steamの説明"/>
-		<Translation ID="TAB_INFO_BTN_RELASENOTES" String="更新履歴"/>
-		<Translation ID="TAB_INFO_BTN_LOGBUTTON" String="ログファイルを開く"/>
-		<Translation ID="TAB_INFO_BTN_HELPUS" String="翻訳にご協力ください"/>
-		<Translation ID="TAB_INFO_BTN_STABLEVERSION" String="安定版のバージョン"/>
+		<!--MenuTabs-->
+		<Translation ID="UMBETA_TAB_INFO" String="情報"/>
+		<Translation ID="UMBETA_TAB_GENERAL" String="全般"/>
+		<Translation ID="UMBETA_TAB_GAMEPLAY" String="ゲームプレイ"/>
+		<Translation ID="UMBETA_TAB_ECONOMICAL" String="経済"/>
+		<Translation ID="UMBETA_TAB_FEATURE" String="機能"/>
+		<Translation ID="UMBETA_TAB_INDUSTRIES" String="産業"/>
+		<Translation ID="UMBETA_TAB_COSTMANAGER" String="コスト管理"/>
 
-		<!--Tab Support-->
-		<!--<Translation ID ="TAB_SUPPORT_GROUP_SUPPORT" String="Support:"/>-->
+		<!--MenuTabInfo-->
+		<Translation ID="UMBETA_INFO_GRP" String="情報:"/>
+		<Translation ID="UMBETA_INFO_LBL_GAMEVERSION" String="ゲームのバージョン: "/>
+		<Translation ID="UMBETA_INFO_BTN_RELASENOTES" String="更新履歴"/>
+		<Translation ID="UMBETA_INFO_BTN_STEAMDESCRIPTION" String="Steamの説明"/>
+		<Translation ID="UMBETA_INFO_BTN_LOGBUTTON" String="ログファイルを開く"/>
+		<Translation ID="UMBETA_INFO_BTN_HELPUS" String="翻訳にご協力ください"/>
+		<Translation ID="UMBETA_INFO_BTN_STABLEVERSION" String="安定版のバージョン"/>
 
+		<!--MenuTabGeneral-->
+		<Translation ID="UMBETA_GENERAL_GRP_SETTINGS" String="全般設定:"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_ENABLEACHIEVMENTS" String="実績解除を常に有効"/>
 
-		<!--Tab General-->
-		<Translation ID="TAB_GENERAL_GROUP_SETTINGS" String="全般設定:"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_ENABLEACHIEVMENTS" String="実績解除を常に有効"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_NOCHIRPER" String="Chirpyを無効化"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_DISABLEABANDONMENT" String="放棄を無効化"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_DISABLEFIRES" String="火災を無効化"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_ENABLEDAUTOCASH" String="AutoCashを有効化"/>
 
-		<Translation ID="TAB_GENERAL_CHKBOX_NOCHIRPER" String="Chirpyを無効化"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_DISABLEABANDONMENT" String="放棄を無効化"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_DISABLEFIRES" String="火災を無効化"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_ENABLEDAUTOCASH" String="AutoCashを有効化"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_SHOWINFODIALOG" String="AutoCashの警告情報を表示(ゲームの再読み込み不要)"/>
+		<Translation ID="UMBETA_GENERAL_GRP_MILESTONES" String="マイルストーンの解除:"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKUNIQUEBUILDINGS" String="マイルストーンのユニーク施設を全て解除"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKDELUXE" String="Deluxe Editionのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKDELUXE" String="Deluxe Editionは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKEURO" String="ヨーロッパテーマのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKWONDERS" String="モニュメントの解除"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKNATURALDISASTERS" String="Natural Disastersのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKNATURALDISASTERS" String="DLC Natural Disastersは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKAFTERDARK" String="After Darkのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKAFTERDARK" String="DLC After Darkは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKSNOWFALL" String="Snowfallのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKSNOWFALL" String="DLC Snowfallは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKMASSTRANSIT" String="Mass Transitのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKMASSTRANSIT" String="DLC Mass Transitは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKGREENCITIES" String="Green Citiesのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKGREENCITIES" String="DLC Green Citiesは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKCONCERTS" String="Concertsのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKCONCERTS" String="DLC Concertsは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKPARKLIFE" String="Parklifeのランドマーク"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKPARKLIFE" String="DLC Parklifeは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKCAMPUS" String="Campusの建物"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKCAMPUS" String="DLC Campusは未インストール"/> 
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKURBAN" String="Sunset Harborの建物"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKURBAN" String="DLC Sunset Harborは未インストール"/>
+		<Translation ID="UMBETA_GENERAL_CHKBOX_UNLOCKINDUSTRY" String="Industriesの建物"/>
+		<Translation ID="UMBETA_GENERAL_LBL_UNLOCKINDUSTRY" String="DLC Industriesは未インストール"/>
+    
+		<!--MenuTabGameplay-->
+		<Translation ID="UMBETA_GAMEPLAY_GRP_POLLUTION" String="汚染の除去:"/>
+		<Translation ID="UMBETA_GAMEPLAY_CHKBOX_REMOVEGROUNDPOLLUTION" String="土壌汚染"/>
+		<Translation ID="UMBETA_GAMEPLAY_CHKBOX_REMOVEWATERPOLLUTION" String="水質汚染"/>
+		<Translation ID="UMBETA_GAMEPLAY_CHKBOX_REMOVENOISEPOLLUTION" String="騒音公害"/>
+		
+		<Translation ID="UMBETA_GAMEPLAY_GRP_EXTRAS" String="その他:"/>
+		<Translation ID="UMBETA_GAMEPLAY_CHKBOX_FULLDEMAND" String="都市需要を最高化"/>
 
-		<Translation ID="TAB_GENERAL_GROUP_MILESTONES" String="マイルストーンの解除:"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKUNIQUEBUILDINGS" String="マイルストーンのユニーク施設を全て解除"/>
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKWONDERS" String="モニュメントの解除"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKWONDERS" String="モニュメントの解除"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKNATURALDISASTERS" String="Natural Disastersのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKNATURALDISASTERS" String="DLC Natural Disastersは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKAFTERDARK" String="After Darkのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKAFTERDARK" String="DLC After Darkは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKSNOWFALL" String="Snowfallのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKSNOWFALL" String="DLC Snowfallは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKDELUXE" String="Deluxe Editionのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKDELUXE" String="Deluxe Editionは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKEURO" String="ヨーロッパテーマのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKEURO" String="ヨーロッパテーマのランドマーク"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKMASSTRANSIT" String="Mass Transitのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKMASSTRANSIT" String="DLC Mass Transitは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKGREENCITIES" String="Green Citiesのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKGREENCITIES" String="DLC Green Citiesは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKCONCERTS" String="Concertsのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKCONCERTS" String="DLC Concertsは未インストール"/>
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKPARKLIFE" String="Parklifeのランドマーク"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKPARKLIFE" String="DLC Parklifeは未インストール"/>
-	
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKCAMPUS" String="Campusの建物"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKCAMPUS" String="DLC Campusは未インストール"/> 
-    
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKURBAN" String="Sunset Harborの建物"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKURBAN" String="DLC Sunset Harborは未インストール"/>
+		<Translation ID="UMBETA_GAMEPLAY_GRP_RESOURCES" String="資源の減少速度:"/>
+		<Translation ID="UMBETA_GAMEPLAY_CHKBOX_UNLIMITEDOIL" String="原油"/>
+		<Translation ID="UMBETA_GAMEPLAY_CHKBOX_UNLIMITEDORE" String="鉱石"/>
 
-		<Translation ID="TAB_GENERAL_CHKBOX_UNLOCKINDUSTRY" String="Industriesの建物"/>
-		<Translation ID="TAB_GENERAL_LBL_UNLOCKINDUSTRY" String="DLC Industriesは未インストール"/>
+		<!--MenuTabEconomical-->
+		<Translation ID="UMBETA_ECONOMICAL_GRP_RICO_PUBLIC" String="RICO &amp; 公共収入の倍率:"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_RESIDENT" String="住宅の税収"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_OFFICE" String="オフィスの税収"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_COMMERCIAL" String="商業の税収"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_INDUSTRIAL" String="産業の税収"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_PTRANSPORT" String="公共交通の収入"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_TAXI" String="タクシーの収入"/>
+		<Translation ID="UMBETA_ECONOMICAL_DROPDOWN_LBL_BEAUTIFICATION" String="パークエリアの収入"/>
     
-		<!--TAB GAMEPLAY-->
-		<Translation ID="TAB_GAMEPLAY_GROUP_POLLUTION" String="汚染の除去:"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_REMOVENOISEPOLLUTION" String="騒音公害"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_REMOVEGROUNDPOLLUTION" String="土壌汚染"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_REMOVEWATERPOLLUTION" String="水質汚染"/>
+		<!--MenuTabFeature-->
+		<Translation ID="UMBETA_FEATURE_GRP_EASY_BUILD" String="摩天楼を簡単に作ろう！:"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_ATTRACTIVENESS" String="都市の魅力レベルを最高化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_ENTERTAINMENT" String="都市の娯楽レベルを最高化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_LANDVALUE" String="都市の地価レベルを最高化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_EDUCATION" String="都市の教育レベルを最高化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_HEALTH" String="都市の健康レベルを最高化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_RADIOCOV" String="ラジオの発信範囲を最大化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_EARTHQUAKECOV" String="地震計の感知範囲を最大化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_FIREWATCHCOV" String="火の見櫓の監視範囲を最大化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_CRIME" String="建物から犯罪発生を無効化"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_DEATH" String="死亡者を除去して、新しい子供に置き換える"/>
+		<Translation ID="UMBETA_FEATURE_CHKBOX_GARBAGE" String="建物からゴミ発生を無効化"/>
+		
+		<!--MenuTabIndustries-->
+		<Translation ID="UMBETA_INDUSTRIES_LBL_NOTICE_HEAD" String="重要！:"/>
+		<Translation ID="UMBETA_INDUSTRIES_LBL_NOTICE" String="資源(木材や石油など) で、チェックボックスをオンにすると、&#10;資源の採取施設では、採取した資源を全て輸出しようとします。&#10;この現象は、十分な消費先や買い手が無いために起こります。&#10;その結果、産業区画が放棄される可能性が高いです。"/>
+		<Translation ID="UMBETA_INDUSTRIES_LBL_COMMERCIAL_BUILDINGS" String="商業地区の在庫:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_COMMERCIAL_GOODS" String="商品"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_COMMERCIAL_LUXURY_PRODUCTS" String="高級品"/>
 
-		<!--<Translation ID ="TAB_GAMEPLAY_GROUP_RESOURCES" String="Unlimited Resources:"/>-->
-		<Translation ID="TAB_GAMEPLAY_GROUP_RESOURCES" String="資源の減少速度:"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_UNLIMITEDOIL" String="石油"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_UNLIMITEDORE" String="鉱石"/>
+		<Translation ID="UMBETA_INDUSTRIES_LBL_SPEZIAL_INDUSTRY" String="特化産業(採取施設) の資源:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_SPEZIAL_OIL" String="原油"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_SPEZIAL_ORE" String="鉱石"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_SPEZIAL_GRAIN" String="穀物"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_SPEZIAL_LOGS" String="丸太"/>
 
-		<Translation ID="TAB_GAMEPLAY_GROUP_COSTS_REFUND" String="維持費 &amp; 建設費:"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_MAINTENANCECOSTS" String="半額の維持費"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_CONSTRUCTIONECOST" String="半額の建設費"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_RELOCATIONCOST" String="半額の移転費"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_FULLREFUND" String="全額の返金(全額返金の有効化 - 半額返金を無効化)"/>
+		<Translation ID="UMBETA_INDUSTRIES_LBL_GENERIC_INDUSTRY_PROCESSED" String="特化産業(加工施設) の資源:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_PETROL" String="石油"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_COAL" String="石炭"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_FOOD" String="食品"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_LUMBER" String="材木"/>
 
-		<Translation ID="TAB_GAMEPLAY_GROUP_EXTRAS" String="その他:"/>
-		<Translation ID="TAB_GAMEPLAY_CHKBOX_FULLDEMAND" String="都市需要を最高化"/>
-    
-		<!--TAB ECONOMICAL-->
-		<Translation ID="TAB_ECONOMICAL_GROUP_RICO_PUBLIC" String="RICO &amp; 公共収入の倍率:"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_RESIDENT" String="住宅の税収"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_OFFICE" String="オフィスの税収"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_COMMERCIAL" String="商業の税収"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_INDUSTRIAL" String="工業の税収"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_PTRANSPORT" String="公共交通の収入"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_TOURISM" String="観光客の収入"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_TAXI" String="タクシーの収入"/>
-		<Translation ID="TAB_ECONOMICAL_DROPDOWN_LABEL_BEAUTIFICATION" String="パークエリアの収入"/>
-    
-		<!--TAB FEATURE OPTIONS-->
-		<Translation ID="TAB_FEATURE_GROUP_EASY_BUILD" String="摩天楼を簡単に作ろう！:"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_ATTRACTIVENESS" String="都市の魅力レベルを最高化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_ENTERTAINMENT" String="都市の娯楽レベルを最高化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_LANDVALUE" String="都市の地価レベルを最高化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_EDUCATION" String="都市の教育レベルを最高化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_HEALTH" String="都市の健康レベルを最高化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_CRIME" String="建物から犯罪発生を無効化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_DEATH" String="死亡者を除去して、新しい子供に置き換える"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_GARBAGE" String="建物からゴミ発生を無効化"/>
-		<Translation ID="TAB_FEATURE_LABEL_BETA" String="ここからはベータ機能で、エラーが発生する可能性があります"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_RADIOCOV" String="ラジオの発信範囲を最大化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_EARTHQUAKECOV" String="地震計の感知範囲を最大化"/>
-		<Translation ID="TAB_FEATURE_CHKBOX_FIREWATCHCOV" String="火の見櫓の監視範囲を最大化"/>
+		<Translation ID="UMBETA_INDUSTRIES_LBL_PLOPPED_INDUSTRY" String="産業エリアの資源:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_PLOPPED_OIL" String="原油"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_PLOPPED_ORE" String="鉱石"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_PLOPPED_CROPS" String="農作物"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_PLOPPED_FORESTRY" String="原木"/>
+
+		<Translation ID="UMBETA_INDUSTRIES_LBL_UNIQUE_FACTORIES" String="ユニーク工場の資源:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_ANIMALPRODUCTS" String="畜産物"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_FLOURS" String="小麦粉"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_PAPER" String="紙"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_PLANEDTIMBER" String="製材"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_PETROLEUM" String="石油"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_PLASTICS" String="プラスチック"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_GLASS" String="ガラス"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_METALS" String="金属"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_UNIQUE_CROPS" String="農作物"/>
+
+		<Translation ID="UMBETA_INDUSTRIES_LBL_FISH" String="漁業の資源:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_FISH_FISHING_HARBOR" String="漁港・専門漁港"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_FISH_SEAWEED_FARM" String="魚類/藻類/海藻の養殖場"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_FISH_MARKETS" String="水産市場"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_FISH_PROCESSING_FACILITIES" String="水産加工場"/>
+
+		<Translation ID="UMBETA_INDUSTRIES_LBL_SHELTERS" String="避難所の在庫:"/>
+		<Translation ID="UMBETA_INDUSTRIES_CHKBOX_SHELTERS_FOOD_SHELTERS" String="食料品(商品)"/>
+
+		<!--MenuTabCostManager-->
+		<Translation ID="UMBETA_COSTMANAGER_LBL_CONSTRUCTIONCOST" String="建設費:"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_SERVICEBUILDING" String="サービス施設"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_PUBLICTRANSPORT" String="公共交通機関"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_ROAD" String="道路関係"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_OTHER" String="その他"/>
+
+		<Translation ID="UMBETA_COSTMANAGER_LBL_RELOCATIONCOST" String="移転費用:"/>
+		<Translation ID="UMBETA_COSTMANAGER_LBL_REFUND" String="払い戻し:"/>
+		<Translation ID="UMBETA_COSTMANAGER_LBL_AREACOST" String="エリア購入費の倍率:"/>
+
+		<Translation ID="UMBETA_COSTMANAGER_LBL_TRANSPORTUPKEEP" String="公共交通の維持費:"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_BUS" String="バス"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_TRAM" String="トラム"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_METRO" String="地下鉄"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_TRAIN" String="鉄道"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_SHIP" String="船舶"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_PLANE" String="飛行機"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_TAXI" String="タクシー"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_MONORAIL" String="モノレール"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_CABLECAR" String="ロープウェイ"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_SIGHTSEEING" String="観光バス"/>
+
+		<Translation ID="UMBETA_COSTMANAGER_LBL_SERVICEUPKEEP" String="サービス維持費:"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_EDUCATION" String="教育"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_SERVICEROAD" String="道路"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_ELECTRICITY" String="電力"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_FIREDEPT" String="消防"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_POLICEDEPT" String="警察"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_HEALTHCARE" String="医療"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_WATERSERVICE" String="上下水道"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_PARK" String="公園"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_DISASTER" String="災害"/>
+		<Translation ID="UMBETA_COSTMANAGER_SLI_MONUMENT" String="モニュメント"/>
+
 	</Translations>
 </Language>

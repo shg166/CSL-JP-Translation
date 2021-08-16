@@ -6,7 +6,7 @@
     <Translation ID="LBR_SPN" String="ライフスパン"/>
     <Translation ID="LBR_SPN_WRN" String="警告！"/>
     <Translation ID="LBR_SPN_BAL" String="ゲーム中に設定を変更すると、一時的に都市のバランスが崩れる可能性が高いです。"/>
-    <Translation ID="LBR_SPN_BAK" String="変更する前に、バックアップを保存することを強く推奨"/>
+    <Translation ID="LBR_SPN_BAK" String="変更する前に、バックアップを保存することを強く推奨します。"/>
     <Translation ID="LBR_CAL" String="ライフサイクルの計算モデル"/>
     <Translation ID="LBR_CAL_SUN" String="Sunset Harborを元にした計算モデル (デフォルト)"/>
     <Translation ID="LBR_CAL_LEG" String="レガシー(元のWG MOD) の計算モデル - 寿命が短く、高齢者が少なめ"/>
@@ -14,8 +14,8 @@
     <Translation ID="LBR_RET" String="定年退職のオプション（Sunset Harborを元にした計算モデルを使用する場合）"/>
     <Translation ID="LBR_RET_USE" String="カスタムした定年退職を設定"/>
     <Translation ID="LBR_RET_CUS" String="定年退職の設定"/>
-    <Translation ID="LBR_RET_NT1" String="定年退職の年齢を下げても、以前の設定で既に退職した市民のステータスは変更されません"/>
-    <Translation ID="LBR_RET_NT2" String="定年退職の年齢を上げても、以前の設定で既に退職した市民のステータスは変更されません"/>
+    <Translation ID="LBR_RET_NT1" String="定年退職の年齢を下げても、以前の設定で退職済みの住民ステータスは変わりません。"/>
+    <Translation ID="LBR_RET_NT2" String="定年退職の年齢を上げても、以前の設定で退職済みの住民が復職することはありません。"/>
     <Translation ID="LBR_HEA" String="健康度"/>
     <Translation ID="LBR_HEA_ILL" String="10年単位で起こる、ランダムな病気の発生確率"/>
     <Translation ID="LBR_HEA_ILD" String="特定の疾病による病気には影響しません。例えば、汚染や騒音など"/>
@@ -24,22 +24,22 @@
     <Translation ID="LBR_DTH_TRN" String="霊柩車を必要とする遺体の割合"/>
     <Translation ID="LBR_DTH_TRD" String="(ゲームのデフォルトは67%、MODのデフォルトは50%)"/>
     <Translation ID="LBR_IMM" String="移民"/>
-    <Translation ID="LBR_IMM_VAR" String="移民の教育レベルに、25%の変動幅を適用します"/>
+    <Translation ID="LBR_IMM_VAR" String="移民の教育レベルに、25%の変動幅を適用します。"/>
     <Translation ID="LBR_IMM_INC" String="移民の平均教育レベルを上昇"/>
     <Translation ID="LBR_IMM_DEC" String="移民の平均教育レベルを下降"/>
     <Translation ID="LBR_SET" String="設定"/>
     <Translation ID="LBR_SET_LDT" String="詳細なデバッグログを有効"/>
-    <Translation ID="LBR_SET_LGD" String="死亡者を 'Lifecycle Death log.txt' に記録"/>
-    <Translation ID="LBR_SET_LGI" String="移民を 'Lifecycle immigration log.txt' に記録"/>
-    <Translation ID="LBR_SET_LGT" String="カスタムされた公共交通の選択肢を 'Lifecycle transportlog.txt' に記録 - 警告:遅い！"/>
-    <Translation ID="LBR_SET_LGS" String="病気イベントを 'Lifecycle sickness log.txt' に記録する"/>
+    <Translation ID="LBR_SET_LGD" String="死亡者をログに記録 'Lifecycle Death log.txt'"/>
+    <Translation ID="LBR_SET_LGI" String="移民をログに記録 'Lifecycle immigration log.txt'"/>
+    <Translation ID="LBR_SET_LGT" String="カスタムした公共交通のログを記録 'Lifecycle transportlog.txt' - 警告:処理が遅い！"/>
+    <Translation ID="LBR_SET_LGS" String="病気イベントをログを記録 'Lifecycle sickness log.txt'"/>
     <Translation ID="LBR_SPD" String="速度"/>
     <Translation ID="LBR_SPD_FAC" String="ベースゲームと比較して、市民の老化スピードを遅くする要素"/>
     <Translation ID="LBR_SPD_FN1" String="1は基本的なゲームの老化速度(35週経過で10歳相当) で、2は2倍遅い老化（70週経過で10歳相当）になり、3は3倍遅い老化となっています。 倍率が15になると、ゲーム内の1年ごとに市民は約1年歳を取ります。"/>
     <Translation ID="LBR_SPD_FN2" String="ライフサイクルや年齢には影響しません - ゲーム速度よりも、市民の老化速度が早くなります。"/>
     <Translation ID="LBR_SPD_FN3" String="(ゲームのデフォルトは1・MODのデフォルトは3)"/>
     <Translation ID="LBR_TRN" String="交通機関"/>
-    <Translation ID="LBR_TRN_CUS" String="カスタムされた公共交通の選択率を使用"/>
+    <Translation ID="LBR_TRN_CUS" String="カスタムした公共交通の選択率を使用"/>
     <Translation ID="LBR_TRN_WEA" String="所得レベル"/>
     <Translation ID="LBR_TRN_CAR" String="自家用車の使用確率(%)"/>
     <Translation ID="LBR_TRN_BIK" String="自転車の使用確率(%)"/>

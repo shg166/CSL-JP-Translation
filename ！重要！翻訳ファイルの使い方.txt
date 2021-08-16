@@ -37,6 +37,21 @@ Windowsの標準的なインストール先 → "C:\Program Files (x86)\Steam\st
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+Realistic Population 2		".\2243670411\Translations"	2021/08/16 - 新規
+UltimateMod[BETA]		".\2506369356\Translations"	2021/08/16 - 更新
+Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/16 - 修正
+Ploppable RICO Revisited	".\2016920607\Translations"	2021/08/16 - 修正
+
+TLR用設定ファイルを追加		none				2021/08/14 - 新規
+Traffic Light Replacerで、日本の信号機MODを利用するための定義ファイル
+詳しくはフォルダ内のテキストファイルを確認してください
+
+AdjustableBusinessConsumption2	".\2499372567\Locale"		2021/08/14 - 新規
+District RCI2			".\2498879299\Locale"		2021/08/14 - 新規
+OtherRailTrack Speed Increaser3	".\2498816218\Locale"		2021/08/14 - 新規
+Extended InfoPanel2		".\2498761388\Locale"		2021/08/14 - 新規
+District Stats2			".\2498554116\Locale"		2021/08/14 - 新規
+
 UltimateMod[BETA]		".\2506369356\Translations"	2021/08/09 - 新規
 EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/09 - 新規
 RON,the network replacer	".\2405917899\Translations"	2021/08/09 - 新規
