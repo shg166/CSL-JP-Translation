@@ -1,7 +1,7 @@
 **翻訳ファイルの使い方**
 
 1. Github内にある翻訳ファイルからでも、MODの日本語化が可能です。
-1. 詳しくはクラウド内にあるにある、テキストファイルを確認してください。
+1. 詳しくはクラウド内にある、テキストファイルを確認してください。
     - [Google Drive](https://drive.google.com/drive/folders/13cCZ_7Rjl5MF67cwMrYMYlSfuIVL9_3b?usp=sharing) に移動
     - [One Drive](https://1drv.ms/f/s!ApPQKe2pLFHJvC1dCPsOAtxQn-Pq) に移動
 
