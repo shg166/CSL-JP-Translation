@@ -11,8 +11,8 @@
     <Translation ID="PAINTER-R" String="R:"/>
     <Translation ID="PAINTER-G" String="G:"/>
     <Translation ID="PAINTER-B" String="B:"/>
-    <Translation ID="PAINTER-RED" String="RGBの赤色成分(0～1)"/>
-    <Translation ID="PAINTER-GREEN" String="RGBの緑色成分(0～1)"/>
-    <Translation ID="PAINTER-BLUE" String="RGBの青色成分(0～1)"/>
+    <Translation ID="PAINTER-RED" String="RGBの赤色成分(0～1の範囲)"/>
+    <Translation ID="PAINTER-GREEN" String="RGBの緑色成分(0～1の範囲)"/>
+    <Translation ID="PAINTER-BLUE" String="RGBの青色成分(0～1の範囲)"/>
   </Translations>
 </Language>
