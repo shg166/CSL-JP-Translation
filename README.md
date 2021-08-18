@@ -37,6 +37,7 @@
 **翻訳ファイルのコピー先**
 
 - エクスプローラーやファイラー系のソフトなどで、ダウンロードした翻訳ファイルをコピーしてください。
+- - 一部のMODでは、ユーザーフォルダ側に翻訳ファイルをコピーする場合があります。
 - MODやアセット類のインストール先 → ".\Steam\steamapps\workshop\content\255710"
 - Windowsの標準的なインストール先 → "C:\Program Files (x86)\Steam\steamapps\workshop\content\255710"
-- Macのの標準的なインストール先 →  "/Users/[YOUR USERNAME]/Library/Application Support/Steam/steamapps/workshop/content/255710"
+- Macの標準的なインストール先 →  "/Users/[YOUR USERNAME]/Library/Application Support/Steam/steamapps/workshop/content/255710"
