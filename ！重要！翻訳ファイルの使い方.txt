@@ -37,41 +37,46 @@ Windowsの標準的なインストール先 → "C:\Program Files (x86)\Steam\st
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
-Realistic Population 2		".\2243670411\Translations"	2021/08/16 - 新規
-UltimateMod[BETA]		".\2506369356\Translations"	2021/08/16 - 更新
-Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/16 - 修正
-Ploppable RICO Revisited	".\2016920607\Translations"	2021/08/16 - 修正
+EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/19 - 語句の修正
+BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/19 - Ver.アップの更新
+Garbage Bin Manager		".\2139035212\Translations"	2021/08/19 - 語句の修正
+Extra Landscaping Tools		".\502750307\Locale"		2021/08/19 - 語句の修正
 
-TLR用設定ファイルを追加		none				2021/08/14 - 新規
+Realistic Population 2		".\2243670411\Translations"	2021/08/16 - 新規に追加
+UltimateMod[BETA]		".\2506369356\Translations"	2021/08/16 - Ver.アップの更新
+Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/16 - 語句の修正
+Ploppable RICO Revisited	".\2016920607\Translations"	2021/08/16 - 語句の修正
+
+TLR用設定ファイルを追加		none				2021/08/14 - 新規に追加
 Traffic Light Replacerで、日本の信号機MODを利用するための定義ファイル
 詳しくはフォルダ内のテキストファイルを確認してください
 
-AdjustableBusinessConsumption2	".\2499372567\Locale"		2021/08/14 - 新規
-District RCI2			".\2498879299\Locale"		2021/08/14 - 新規
-OtherRailTrack Speed Increaser3	".\2498816218\Locale"		2021/08/14 - 新規
-Extended InfoPanel2		".\2498761388\Locale"		2021/08/14 - 新規
-District Stats2			".\2498554116\Locale"		2021/08/14 - 新規
+AdjustableBusinessConsumption2	".\2499372567\Locale"		2021/08/14 - 新規に追加
+District RCI2			".\2498879299\Locale"		2021/08/14 - 新規に追加
+OtherRailTrack Speed Increaser3	".\2498816218\Locale"		2021/08/14 - 新規に追加
+Extended InfoPanel2		".\2498761388\Locale"		2021/08/14 - 新規に追加
+District Stats2			".\2498554116\Locale"		2021/08/14 - 新規に追加
 
-UltimateMod[BETA]		".\2506369356\Translations"	2021/08/09 - 新規
-EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/09 - 新規
-RON,the network replacer	".\2405917899\Translations"	2021/08/09 - 新規
-Zoning Adjuster			".\2389414419\Translations"	2021/08/09 - 新規
-PtG to ABLC data converter	".\2389394773\Translations"	2021/08/09 - 新規
-BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/09 - 新規
-Garbage Bin Manager		".\2139035212\Translations"	2021/08/09 - 新規
-Advanced Building Level Control	".\2133705267\Translations"	2021/08/09 - 新規
-Repaint				".\2101551127\Translations"	2021/08/09 - 新規
-Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/09 - 新規
-Realistic Population Revisited	".\2025147082\Translations"	2021/08/09 - 新規
-Ploppable RICO Revisited	".\2016920607\Translations"	2021/08/09 - 新規
-Stops & Stations		".\1776052533\Localization"	2021/08/09 - 新規
-Auto Rocket Launch		".\1651041757\Locale"		2021/08/09 - 新規
-Real Time			".\1420955187\Localization"	2021/08/09 - 新規
-Daylight Classic		".\530871278\Locale"		2021/08/09 - 新規
-Prop & Tree Anarchy		".\593588108\Locale"		2021/08/09 - 新規
+UltimateMod[BETA]		".\2506369356\Translations"	2021/08/09 - 新規に追加
+EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/09 - 新規に追加
+RON,the network replacer	".\2405917899\Translations"	2021/08/09 - 新規に追加
+Zoning Adjuster			".\2389414419\Translations"	2021/08/09 - 新規に追加
+PtG to ABLC data converter	".\2389394773\Translations"	2021/08/09 - 新規に追加
+BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/09 - 新規に追加
+Garbage Bin Manager		".\2139035212\Translations"	2021/08/09 - 新規に追加
+Advanced Building Level Control	".\2133705267\Translations"	2021/08/09 - 新規に追加
+Repaint				".\2101551127\Translations"	2021/08/09 - 新規に追加
+Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/09 - 新規に追加
+Realistic Population Revisited	".\2025147082\Translations"	2021/08/09 - 新規に追加
+Ploppable RICO Revisited	".\2016920607\Translations"	2021/08/09 - 新規に追加
+Stops & Stations		".\1776052533\Localization"	2021/08/09 - 新規に追加
+Auto Rocket Launch		".\1651041757\Locale"		2021/08/09 - 新規に追加
+Real Time			".\1420955187\Localization"	2021/08/09 - 新規に追加
+Daylight Classic		".\530871278\Locale"		2021/08/09 - 新規に追加
+Prop & Tree Anarchy		".\593588108\Locale"		2021/08/09 - 新規に追加
 
-Theme Mixer2			".\1899640536\Locale"		2021/08/07 - 新規
-Network Skins			".\1758376843\Locale"		2021/08/07 - 新規
-Extra Landscaping Tools		".\502750307\Locale"		2021/08/07 - 新規
-Improved Public Transport2	".\928128676\Locale"		2021/08/07 - 新規
-Forest Brush v1.3		".\1658679290\Locale"		2021/08/07 - 新規
+Theme Mixer2			".\1899640536\Locale"		2021/08/07 - 新規に追加
+Network Skins			".\1758376843\Locale"		2021/08/07 - 新規に追加
+Extra Landscaping Tools		".\502750307\Locale"		2021/08/07 - 新規に追加
+Improved Public Transport2	".\928128676\Locale"		2021/08/07 - 新規に追加
+Forest Brush v1.3		".\1658679290\Locale"		2021/08/07 - 新規に追加
