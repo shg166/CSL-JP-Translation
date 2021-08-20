@@ -37,6 +37,8 @@ Windowsの標準的なインストール先 → "C:\Program Files (x86)\Steam\st
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/20 - MOD側で対応済
+
 EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/19 - 語句の修正
 BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/19 - Ver.アップの更新
 Garbage Bin Manager		".\2139035212\Translations"	2021/08/19 - 語句の修正
