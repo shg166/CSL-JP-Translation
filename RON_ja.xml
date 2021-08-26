@@ -32,6 +32,8 @@
     <Translation ID="RON_PNL_PEA" String="歩道 - キャンパスとパークエリア"/>
     <Translation ID="RON_PNL_DEC" String="デコレーション"/>
     <Translation ID="RON_PNL_ELI" String="送電線"/>
+    <Translation ID="RON_PNL_QUA" String="護岸・岸壁"/>
+    <Translation ID="RON_PNL_CAN" String="水路・運河"/>
     <Translation ID="RON_PNL_RIP" String="置換中"/>
     <Translation ID="RON_FIL_NAME" String="検索:"/>
     <Translation ID="RON_OPT_ADV" String="Advanced Modeを有効 (異なるネットワークに置換が可能)"/>
