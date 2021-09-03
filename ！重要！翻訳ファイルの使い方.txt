@@ -48,6 +48,9 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+Find It!2			".\2133885971\Translations"	2021/09/04 - MOD側で全て対応
+Yet Another Toolbar		".\2448994345\Translations"	2021/09/04 - MOD側で全て対応
+
 RON,the network replacer	".\2405917899\Translations"	2021/08/26 - MOD側で全て対応
 
 Realistic Population Revisited	".\2025147082\Translations"	2021/08/25 - MOD側で全て対応
