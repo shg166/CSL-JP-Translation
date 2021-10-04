@@ -1,7 +1,7 @@
 type = extension
 
 identifier = ja
-locale_name = 日本語
+locale_name = Japanese
 wiki_complete = false
 GravityModule_State = 状態
 GravityModule_Repeat = 繰り返し
