@@ -48,6 +48,12 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+Back-and-Forth 2 Module [PO]	"\255710\2618631338"		2021/10/04 - 新規に追加
+Gravity Module [PO]		"\255710\2404099470"		2021/10/04 - 新規に追加
+Procedural Objects		"\255710\1094334744"		2021/10/04 - 新規に追加
+
+Repaint				".\2101551127\Translations"	2021/10/01 - MOD側で全て対応
+
 Zoning Adjuster			".\2389414419\Translations"	2021/09/09 - MOD側で全て対応
 
 Find It!2			".\2133885971\Translations"	2021/09/04 - MOD側で全て対応

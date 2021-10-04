@@ -1,0 +1,17 @@
+type = extension
+
+identifier = ja
+locale_name = 日本語
+wiki_complete = false
+GravityModule_State = 状態
+GravityModule_Repeat = 繰り返し
+GravityModule_ON = ON
+GravityModule_OFF = OFF
+GravityModule_Back = 戻る
+GravityModule_Start = スタート
+GravityModule_Time speed = 時間の速度
+GravityModule_Initial speed = 初期速度
+GravityModule_Bounce = バウンド
+GravityModule_Times = 回
+GravityModule_Factor = 係数:
+GravityModule_Children in group follow motion = グループ内の子オブジェクトは動きに追従します

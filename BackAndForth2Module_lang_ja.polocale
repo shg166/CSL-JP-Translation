@@ -1,0 +1,14 @@
+type = extension
+
+identifier = ja
+BackAndForth2Module_Delay = 遅延
+BackAndForth2Module_times = 回
+BackAndForth2Module_UNSET = 解除
+BackAndForth2Module_Set = 設定
+BackAndForth2Module_Back = 戻る
+BackAndForth2Module_Start = スタート
+BackAndForth2Module_Speed Curve = 速度の曲線
+BackAndForth2Module_Rotation = 回転
+BackAndForth2Module_Children in group follow motion = グループ内の子オブジェクトは動きに追従します
+BackAndForth2Module_ON = ON
+BackAndForth2Module_OFF = OFF
