@@ -54,9 +54,17 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
-Upgrade Untouchable: Convert stations	none			2021/10/19 - MOD側で全て対応
+Toggle Edge Scrolling		".\2645254941\Translations"	2021/11/05 - MOD側で全て対応
 
-Transport Lines Manager		none				2021/10/15 - MOD側で全て対応
+Addresses＆Names用のプリセットファイルを追加			2021/10/25 - 新規に追加
+Addresses＆Namesで使う、日本風の住所や人名のプリセットファイル
+詳しくはフォルダ内のテキストファイルを確認してください
+
+Procedural Objects		".\255710\1094334744"		2021/10/23 - MOD側で全て対応
+
+Upgrade Untouchable: Convert stations				2021/10/19 - MOD側で全て対応
+
+Transport Lines Manager						2021/10/15 - MOD側で全て対応
 
 Back-and-Forth 2 Module [PO]	".\255710\2618631338"		2021/10/04 - 新規に追加
 Gravity Module [PO]		".\255710\2404099470"		2021/10/04 - 新規に追加
