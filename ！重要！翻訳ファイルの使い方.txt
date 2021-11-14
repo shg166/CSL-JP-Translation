@@ -54,43 +54,45 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
-Toggle Edge Scrolling		".\2645254941\Translations"	2021/11/05 - MOD側で全て対応
+Real Time			".\1420955187\Localization"	2021/11/14 - MODで全て対応
+
+Toggle Edge Scrolling		".\2645254941\Translations"	2021/11/05 - MODで全て対応
 
 Addresses＆Names用のプリセットファイルを追加			2021/10/25 - 新規に追加
 Addresses＆Namesで使う、日本風の住所や人名のプリセットファイル
 詳しくはフォルダ内のテキストファイルを確認してください
 
-Procedural Objects		".\255710\1094334744"		2021/10/23 - MOD側で全て対応
+Procedural Objects		".\255710\1094334744"		2021/10/23 - MODで全て対応
 
-Upgrade Untouchable: Convert stations				2021/10/19 - MOD側で全て対応
+Upgrade Untouchable: Convert stations				2021/10/19 - MODで全て対応
 
-Transport Lines Manager						2021/10/15 - MOD側で全て対応
+Transport Lines Manager						2021/10/15 - MODで全て対応
 
 Back-and-Forth 2 Module [PO]	".\255710\2618631338"		2021/10/04 - 新規に追加
 Gravity Module [PO]		".\255710\2404099470"		2021/10/04 - 新規に追加
 Procedural Objects		".\255710\1094334744"		2021/10/04 - 新規に追加
 
-Repaint				".\2101551127\Translations"	2021/10/01 - MOD側で全て対応
+Repaint				".\2101551127\Translations"	2021/10/01 - MODで全て対応
 
-Zoning Adjuster			".\2389414419\Translations"	2021/09/09 - MOD側で全て対応
+Zoning Adjuster			".\2389414419\Translations"	2021/09/09 - MODで全て対応
 
-Find It!2			".\2133885971\Translations"	2021/09/04 - MOD側で全て対応
-Yet Another Toolbar		".\2448994345\Translations"	2021/09/04 - MOD側で全て対応
+Find It!2			".\2133885971\Translations"	2021/09/04 - MODで全て対応
+Yet Another Toolbar		".\2448994345\Translations"	2021/09/04 - MODで全て対応
 
-Advanced Building Level Control	".\2133705267\Translations"	2021/09/01 - MOD側で全て対応
+Advanced Building Level Control	".\2133705267\Translations"	2021/09/01 - MODで全て対応
 
-RON,the network replacer	".\2405917899\Translations"	2021/08/26 - MOD側で全て対応
+RON,the network replacer	".\2405917899\Translations"	2021/08/26 - MODで全て対応
 
-Realistic Population Revisited	".\2025147082\Translations"	2021/08/25 - MOD側で全て対応
+Realistic Population Revisited	".\2025147082\Translations"	2021/08/25 - MODで全て対応
 
-PtG to ABLC data converter	".\2389394773\Translations"	2021/08/23 - MOD側で全て対応
+PtG to ABLC data converter	".\2389394773\Translations"	2021/08/23 - MODで全て対応
 
-Network Skins			".\1758376843\Locale"		2021/08/21 - MOD側で全て対応
+Network Skins			".\1758376843\Locale"		2021/08/21 - MODで全て対応
 
-Garbage Bin Manager		".\2139035212\Translations"	2021/08/20 - MOD側で全て対応
-EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/20 - MOD側で全て対応
-Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/20 - MOD側で全て対応
-BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/20 - MOD側で全て対応
+Garbage Bin Manager		".\2139035212\Translations"	2021/08/20 - MODで全て対応
+EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/20 - MODで全て対応
+Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/20 - MODで全て対応
+BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/20 - MODで全て対応
 
 EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/19 - 語句の修正
 BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/19 - Ver.アップの更新
