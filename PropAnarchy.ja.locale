@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE root [
+    <!ELEMENT root ANY>
+    <!ELEMENT string ANY>
+    <!ATTLIST string name ID #REQUIRED>
+]>
+<!-- PropAnarchy Default Locale Template -->
+<resources>
+    <!-- Painter Translation -->
+    <string name="PainterTooltip">Prop Painter</string>
+    <!-- PLT Specific Translation -->
+    <string name="PLTToggleSnapping">PLT: スナップの切り替え</string>
+    <string name="PLTToggleFenceMode">PLT: フェンスモードの切り替え</string>
+    <string name="PLTToggleControlPanel">PLT: オプションパネルの切り替え</string>
+    <string name="PLTTitleBar">PLTの設定</string>
+    <string name="PLTParameters">パラメータ</string>
+    <string name="PLTOptions">オプション</string>
+    <string name="PLTItemWiseTooltip">アイテムで制御&#xA;曲線に沿ってまとめてアイテムを配置します</string>
+    <string name="PLTSpacingTooltip">スペーシングで制御&#xA;等間隔のスペースでアイテムを配置します</string>
+    <string name="PLTDecouplePrevSegment">直前のセグメントから連続性を分離</string>
+    <string name="PLTSpacingTitle">スペーシング</string>
+    <string name="PLTAutoDefaultSpacing">デフォルトの自動スペーシング</string>
+    <string name="PLTAutoDefaultSpacingTooltip">有効時に異なるPropやツリーを選択しても、デフォルトの自動スペーシングが指定されます&#xA;フェンスモードに切り替えても、スペーシングが自動的にデフォルトに戻ります</string>
+    <string name="PLTAngleTitle">角度</string>
+    <string name="PLTAngleDynamic">動的な角度</string>
+    <string name="PLTAngleSingle">単体の角度</string>
+    <string name="PLTFlip180">180°反転</string>
+    <string name="PLTFlip180Tooltip">Propを180°反転します&#xA;ロックモード(緑色)では、change angle識別子を使って反転させません</string>
+    <string name="PLTRelativeAngle">相対的な角度</string>
+    <!-- PLT Calculator Specific Translation -->
+    <string name="PLTDefault">デフォルト</string>
+    <string name="PLTLength">長さ</string>
+    <string name="PLTWidth">幅</string>
+    <string name="PLTRound">四捨五入</string>
+    <string name="PLTZero">ゼロ</string>
+    <!-- PLT Option Specific Translation -->
+    <string name="PLTShowUndoPreview">Undoをプレビュー表示</string>
+    <string name="PLTShowUndoPreviewTooltip">Ctrlキーを押しながら、次回のUndoコマンドで削除する項目をハイライトします</string>
+    <string name="PLTErrorChecking">エラーの確認</string>
+    <string name="PLTErrorCheckingTooltip">衝突判定時のエラーを切り替えます&#xA;無効にするとパフォーマンスが向上する場合があります</string>
+    <string name="PLTShowErrorGuides">エラーガイドの表示</string>
+    <string name="PLTShowErrorGuidesTooltip">道路や建物によってブロックされたアイテムは「黄色/橙色」でハイライト&#xA;配置が無効なアイテムは「赤色」でハイライトします</string>
+    <string name="PLTAnarchy">PLT Anarchy</string>
+    <string name="PLTAnarchyTooltip">有効時に衝突判定のエラーに関係なく、アイテム配置が可能です</string>
+    <string name="PLTPlaceBlockedItem">ブロック時のアイテム配置</string>
+    <string name="PLTPlaceBlockedItemTooltip">有効時は道路や建物にブロックされたアイテム(黄色/橙色)は配置します&#xA;配置が無効なアイテム(赤色)では配置しません</string>
+    <string name="PLTMeshCenterCorrection">センター補正にメッシュを使用</string>
+    <string name="PLTMeshCenterCorrectionTooltip">フットプリント内のアイテムから中央部へ配置を試みます&#xA;境界上で中央に配置されないPropに適します</string>
+    <string name="PLTPerfectCircle">真円なサークル</string>
+    <string name="PLTPerfectCircleTooltip">有効時は円周上にある全てのアイテムとサイズから一致する、サークルの最小半径でスナップします&#xA;サークルの最小半径は、スペーシングのパラメータに依存します</string>
+    <string name="PLTLinearFence">直線時にフェンスを重ねる</string>
+    <string name="PLTLinearFenceTooltip">直線でフェンスを配置した場合は、マウスの指定位置で終わるように合わせます&#xA;最後のフェンスを二重にして全長を調整します</string>
+    <!-- Misc Props -->
+    <string name="GroupProps">Propのグループ化</string>
+    <string name="UngroupProps">Propの非グループ化</string>
+    <!-- Indicator Messages -->
+    <string name="PropAnarchyIsOff">Prop Anarchyはオフ</string>
+    <string name="PropAnarchyIsOn">Prop Anarchyはオン</string>
+    <!-- Prop Snapping -->
+    <string name="PropSnapping">Prop Snapping</string>
+    <string name="PropSnapIsOff">Prop Snappingはオフ</string>
+    <string name="PropSnapIsOn">Prop Snappingはオン</string>
+    <!-- Decal Prop Fix -->
+    <string name="DecalPropFix">Decal Prop Fix</string>
+    <!-- Prop Anarchy -->
+    <string name="PropAnarchy">Prop Anarchy</string>
+    <string name="PropAnarchyDesc">Propをどこでも配置可能です。ネットワークや建物に配置する場合は、設定でPropを非表示・削除も可能です</string>
+    <string name="PropAnarchyBehaviour">重なり発生時の動作</string>
+    <string name="AnarchyHideProp">Propを非表示</string>
+    <string name="AnarchyDeleteProp">Propを削除</string>
+    <!-- Prop Resize -->
+    <string name="IncreasePropSize">Propサイズを拡大</string>
+    <string name="DecreasePropSize">Propサイズを縮小</string>
+    <string name="PressAnyKey">Press any key</string>
+    <!-- Tab Strips -->
+    <string name="MainOptionTab">主なオプション</string>
+    <string name="ExtraFunctionsTab">その他の機能</string>
+    <string name="KeyboardShortcutTab">キーバインド</string>
+    <string name="KeyBindDescription">ホットキーを設定する際、Prop Anarchyでは必ず修飾キー(SHIFT｜CONTROL｜ALT)を組み合わせてください&#xA;プロップのサイズ増減のホットキーについては、特殊なので修飾キーは不要です&#xA;出来ればユニークなホットキーを推奨します</string>
+    <!-- Main options -->
+    <string name="EnableCustomLimit">カスタムPropの上限を有効化</string>
+    <string name="MaxPropLimitTitle">カスタムPropの上限数</string>
+    <string name="MaxPropLimit">Propの最大設置数:  {0} props</string>
+    <string name="Important">重要！ゲームの起動時・マップロード前に設定する必要があります</string>
+    <!-- Tree Snapping specific -->
+    <string name="PropSnap">Prop Snapping</string>
+    <string name="PropSnapLabel">このオプションでは、Propを自由に動かせて建物やツリーにスナップが可能です</string>
+    <string name="PropSnapToBuilding">オプションを有効にすると、Propが建物にスナップできます</string>
+    <string name="PropSnapToNetwork">オプションを有効にすると、Propがネットワークにスナップできます</string>
+</resources>
