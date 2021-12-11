@@ -3,13 +3,13 @@
   <Translations>
     <Translation ID="FIF_DESC" String="アセットの検索や整理をしましょう"/>
     <Translation ID="FIF_SET_DM" String="デバッグメッセージのログを無効化"/>
-    <Translation ID="FIF_SET_DMTP" String="これをチェックすると、デバッグメッセージが保存されません。"/>
+    <Translation ID="FIF_SET_DMTP" String="これをチェックすると、デバッグメッセージが保存されません"/>
     <Translation ID="FIF_SET_CMT" String="メインツールバーをセンタリング"/>
-    <Translation ID="FIF_SET_CMTTP" String="メインツールバーが、一定の長さを超えるとセンタリングされます。"/>
+    <Translation ID="FIF_SET_CMTTP" String="メインツールバーが、一定の長さを超えるとセンタリングします"/>
     <Translation ID="FIF_SET_UL" String="全てをアンロック"/>
-    <Translation ID="FIF_SET_ULTP" String="まだアンロックされていないアイテムでも選択して配置できます。"/>
+    <Translation ID="FIF_SET_ULTP" String="まだアンロックされていないアイテム類を選択して配置可能です"/>
     <Translation ID="FIF_SET_BP" String="ロード時に問題のあるPropを修正"/>
-    <Translation ID="FIF_SET_BPTP" String="問題のある全てのPropを削除します。オプションをチェックして、セーブデータをロードしてください。"/>
+    <Translation ID="FIF_SET_BPTP" String="問題のある全てのPropを削除します。オプションをチェックして、セーブデータをロードしてください"/>
     <Translation ID="FIF_SE_WF" String="カスタム"/>
     <Translation ID="FIF_SE_VF" String="バニラ"/>
     <Translation ID="FIF_SE_IA" String="全て"/>
@@ -22,7 +22,7 @@
     <Translation ID="FIF_SE_IT" String="ツリー"/>
     <Translation ID="FIF_SE_LV" String="建物レベル"/>
     <Translation ID="FIF_SE_SZ" String="サイズ: "/>
-    <Translation ID="FIF_SE_SC" String="SHIFTかCTRLを押して選択すると、複数のカテゴリーを選べます。"/>
+    <Translation ID="FIF_SE_SC" String="SHIFTかCTRLを押して選択すると、複数のカテゴリーから選べます"/>
     <Translation ID="FIF_PLOP_E" String="電力"/>
     <Translation ID="FIF_PLOP_W" String="上下水道"/>
     <Translation ID="FIF_PLOP_G" String="ゴミ"/>
@@ -69,7 +69,7 @@
     <Translation ID="FIF_PROP_LIG" String="ライト"/>
     <Translation ID="FIF_PROP_NAT" String="自然"/>
     <Translation ID="FIF_PROP_UNS" String="未分類"/>
-    <Translation ID="FIF_SET_KS" String="ショートカット"/>
+    <Translation ID="FIF_SET_KS" String="主なキーボードショートカット"/>
     <Translation ID="FIF_SE_IGR" String="Grwb/RICO"/>
     <Translation ID="FIF_SET_CTFL" String="カスタムタグファイルの保存場所 (定期的なバックアップを推奨)"/>
     <Translation ID="FIF_SET_CTFOP" String="エクスプローラで開く"/>
@@ -87,18 +87,18 @@
     <Translation ID="FIF_DE_TIT" String="削除"/>
     <Translation ID="FIF_DE_MSG" String="このタグを削除してもよろしいですか？"/>
     <Translation ID="FIF_RE_TIT" String="名前変更"/>
-    <Translation ID="FIF_RE_MSG" String="新しいタグ名を入力し、Enterを押します。"/>
-    <Translation ID="FIF_RE_ITP" String="Enterを押して、新しいタグ名を作成します。"/>
-    <Translation ID="FIF_RE_ELBL" String="新しいタグ名を入力してください。"/>
+    <Translation ID="FIF_RE_MSG" String="新しいタグ名を入力し、Enterを押します"/>
+    <Translation ID="FIF_RE_ITP" String="Enterを押して、新しいタグ名を作成します"/>
+    <Translation ID="FIF_RE_ELBL" String="新しいタグ名を入力してください"/>
     <Translation ID="FIF_RE_NEWLBL" String="新しいタグ名: "/>
     <Translation ID="FIF_RE_SLBL" String="このタグ名は短すぎます"/>
     <Translation ID="FIF_RE_AELBL" String="このタグは既に存在します"/>
     <Translation ID="FIF_CT_TIT" String="カスタムタグ"/>
     <Translation ID="FIF_CT_DDMSG" String="このアセットに既存のタグを追加:"/>
-    <Translation ID="FIF_CT_DDTP" String="このアセットに既存のタグを追加します。"/>
+    <Translation ID="FIF_CT_DDTP" String="このアセットに既存のタグを追加します"/>
     <Translation ID="FIF_CT_ILBL1" String="または"/>
     <Translation ID="FIF_CT_ILBL2" String="新しいタグ名を入力し、Enterを押します"/>
-    <Translation ID="FIF_CT_ITP" String="Enterを押して、新しいタグを追加します。"/>
+    <Translation ID="FIF_CT_ITP" String="Enterを押して、新しいタグ(複数可)を追加します"/>
     <Translation ID="FIF_SET_CTLS" String="カスタムタグのリストをabc順に並べ替え"/>
     <Translation ID="FIF_TAG_DDTP" String="このタグを付けたアセットのみ表示"/>
     <Translation ID="FIF_TAG_REF" String="再読込"/>
@@ -126,7 +126,7 @@
     <Translation ID="FIF_ADD_ADD" String="このアセットに既存のタグを追加:"/>
     <Translation ID="FIF_ADD_CHTP" String="既存のタグを追加する"/>
     <Translation ID="FIF_ADD_TAG" String="タグ:"/>
-    <Translation ID="FIF_ADD_ELBL" String="新しいタグを入力するか、既存のタグを選択してください。"/>
+    <Translation ID="FIF_ADD_ELBL" String="新しいタグを入力するか、既存のタグを選択してください"/>
     <Translation ID="FIF_REM_TIT" String="一括削除"/>
     <Translation ID="FIF_REM_REM" String="選択したアセットからタグを削除:"/>
     <Translation ID="FIF_REM_CHTP" String="このタグを削除"/>
@@ -134,8 +134,8 @@
     <Translation ID="FIF_SE_EFI" String="追加のフィルターパネルを表示"/>
     <Translation ID="FIF_EF_AC" String="アセット作成者"/>
     <Translation ID="FIF_EF_BH" String="建物の高さ"/>
-    <Translation ID="FIF_EF_MET" String="メートル"/>
-    <Translation ID="FIF_EF_FEE" String="フィート"/>
+    <Translation ID="FIF_EF_MET" String="m"/>
+    <Translation ID="FIF_EF_FEE" String="ft"/>
     <Translation ID="FIF_SET_ACLS" String="アセット作成者のリストをabc順に並べ替え"/>
     <Translation ID="FIF_GR_RAN" String="ランダム選択"/>
     <Translation ID="FIF_NET_SMR" String="小さい道路"/>
@@ -150,35 +150,35 @@
     <Translation ID="FIF_NET_UTI" String="電線・水道管"/>
     <Translation ID="FIF_NET_TRA" String="鉄道"/>
     <Translation ID="FIF_SET_PM" String="ゲームモードでエディターマーカーのプロップを表示"/>
-    <Translation ID="FIF_SET_PMTP" String="これらのプロップは目に見えず、ほとんどのゲームモードでは動作しません。削除するにはMove It!を使用します。"/>
-    <Translation ID="FIF_SET_IC" String="各アセットの既存のインスタンス数を表示します。"/>
+    <Translation ID="FIF_SET_PMTP" String="これらのプロップは目に見えず、ほとんどのゲームモードでは動作しません。削除するにはMove It!を使用します"/>
+    <Translation ID="FIF_SET_IC" String="各アセットで既存のインスタンス数を表示します"/>
     <Translation ID="FIF_EF_UN" String="未使用のアセット"/>
     <Translation ID="FIF_QM_TIT" String="クイックメニュー"/>
     <Translation ID="FIF_UIS_UN" String="未使用"/>
     <Translation ID="FIF_UIS_IN" String="使用中"/>
-    <Translation ID="FIF_SET_ICTP" String="このオプションは検索を少し遅くします。不要な場合は無効にしてください。"/>
+    <Translation ID="FIF_SET_ICTP" String="このオプションは検索を少し遅くします。不要な場合は無効にしてください"/>
     <Translation ID="FIF_SET_PO" String="Procedural Objectsを含む"/>
     <Translation ID="FIF_SET_ICO" String="オリジナルの並べ替えを使用"/>
     <Translation ID="FIF_SET_ICUS" String="使用中アセットを優先表示"/>
     <Translation ID="FIF_SET_ICUN" String="未使用アセットを優先表示"/>
     <Translation ID="FIF_TAG_BATTP" String="一括編集"/>
     <Translation ID="FIF_SE_SEBTP" String="検索ボックスをクリア"/>
-    <Translation ID="FIF_SET_DB" String="Steamオーバーレイの代わりに、OSのデフォルトブラウザを使用する。"/>
-    <Translation ID="FIF_SET_DBTP" String="アセットのサムネイルにあるSteamアイコンを右クリックすると、ワークショップでアセットを確認できます。"/>
+    <Translation ID="FIF_SET_DB" String="Steamオーバーレイの代わりに、OSのデフォルトブラウザを使用する"/>
+    <Translation ID="FIF_SET_DBTP" String="アセットのサムネイルにあるSteamアイコンを右クリックすると、ワークショップでアセットを確認できます"/>
     <Translation ID="FIF_NET_ONE" String="一方通行の道路"/>
     <Translation ID="FIF_NET_PAR" String="路上駐車を許可"/>
-    <Translation ID="FIF_NET_NOP" String="路上駐車を禁止"/>
-    <Translation ID="FIF_PROP_VEH" String="未分類乗り物 (Tree and Vehicle Propsによって生成)"/>
-    <Translation ID="FIF_PROP_TRE" String="ツリー (Tree and Vehicle Propsによって生成)"/>
+    <Translation ID="FIF_NET_NOP" String="路上駐車は不可"/>
+    <Translation ID="FIF_PROP_VEH" String="未分類乗り物 (Tree and Vehicle Propsで生成)"/>
+    <Translation ID="FIF_PROP_TRE" String="ツリー (Tree and Vehicle Propsで生成)"/>
     <Translation ID="FIF_SET_BACK" String="メインパネルに明るい背景色を使用する"/>
-    <Translation ID="FIF_SET_BACKTP" String="暗いアセットは見やすくするが、逆に明るいアセットが見にくいです。"/>
+    <Translation ID="FIF_SET_BACKTP" String="暗いアセットは見やすくなりますが、逆に明るいアセットが見にくいです"/>
     <Translation ID="FIF_SET_DUN" String="将来の更新通知を無効"/>
-    <Translation ID="FIF_PROP_MOT" String="自動車 (Tree and Vehicle Propsによって生成)"/>
-    <Translation ID="FIF_PROP_RAI" String="鉄道 (Tree and Vehicle Propsによって生成)"/>
-    <Translation ID="FIF_PROP_AIR" String="航空機 (Tree and Vehicle Propsによって生成)"/>
-    <Translation ID="FIF_PROP_WAT" String="船舶 (Tree and Vehicle Propsによって生成)"/>
+    <Translation ID="FIF_PROP_MOT" String="自動車 (Tree and Vehicle Propsで生成)"/>
+    <Translation ID="FIF_PROP_RAI" String="鉄道 (Tree and Vehicle Propsで生成)"/>
+    <Translation ID="FIF_PROP_AIR" String="航空機 (Tree and Vehicle Propsで生成)"/>
+    <Translation ID="FIF_PROP_WAT" String="船舶 (Tree and Vehicle Propsで生成)"/>
     <Translation ID="FIF_EF_SB" String="サブビルディング"/>
-    <Translation ID="FIF_ATP_TP" String="タブ間のギャップをクリックして、このパネルをドラッグして移動します"/>
+    <Translation ID="FIF_ATP_TP" String="右クリックでパネルをドラッグして移動"/>
     <Translation ID="FIF_SET_ATP" String="アセットタイプのパネルを表示"/>
     <Translation ID="FIF_EF_CT" String="カスタムタグあり"/>
     <Translation ID="FIF_EF_NCT" String="カスタムタグなし"/>
@@ -186,7 +186,7 @@
     <Translation ID="FIF_PROP_TC" String="地形に追従"/>
     <Translation ID="FIF_PROP_NTC" String="地形に非追従"/>
     <Translation ID="FIF_SET_SSK" String="アセットタイプごとに別々の検索クエリキーワードを使用する"/>
-    <Translation ID="FIF_SET_SSKTP" String="アセットタイプの切り替えでSHIFTを押したままで、クエリキーワードを一時的に共有できます。"/>
+    <Translation ID="FIF_SET_SSKTP" String="アセットタイプの切り替えでSHIFTを押したままで、クエリキーワードを一時的に共有できます"/>
     <Translation ID="FIF_TAG_SA" String="全て選択"/>
     <Translation ID="FIF_TAG_SATP" String="検索した全てのアセットを選択"/>
     <Translation ID="FIF_EF_UNEXP" String="全てエクスポート"/>
@@ -195,8 +195,8 @@
     <Translation ID="FIF_EF_UNEXPTPSE" String="前回の検索で未使用なワークショップIDのリストを、URLのリンク付きでHTMLファイルにエクスポート"/>
     <Translation ID="FIF_EF_LC" String="ローカル カスタム"/>
     <Translation ID="FIF_EF_WC" String="ワークショップ カスタム"/>
-    <Translation ID="FIF_EF_DLC" String="DLC/CCP が必要"/>
-    <Translation ID="FIF_LOC_TOOL" String="クリックして選択済みのアセットから、次のインスタンスを探します。SHIFTを押しながらクリックすると、次のPOインスタンスを探します。"/>
+    <Translation ID="FIF_EF_DLC" String="DLC/CCPが必要"/>
+    <Translation ID="FIF_LOC_TOOL" String="クリックして選択済みのアセットから、次のインスタンスを探します。SHIFTを押しながらクリックすると、次のPOインスタンスを探します"/>
     <Translation ID="FIF_REF_DIS" String="既存アセットのインスタンス数を更新"/>
     <Translation ID="FIF_EF_US" String="使用中のアセット"/>
     <Translation ID="FIF_EF_USEXPTP" String="全て使用中なワークショップIDのリストを、URLのリンク付きでHTMLファイルにエクスポート"/>
@@ -226,10 +226,13 @@
     <Translation ID="FIF_SET_RECPM" String="親フォルダの更新時"/>
     <Translation ID="FIF_SET_RECFC" String="CRPファイルの作成日"/>
     <Translation ID="FIF_SET_RECFM" String="CRPファイルの更新日"/>
-    <Translation ID="FIF_SET_DIS" String="検索時のリアルタイムサーチを無効化して、ENTERを押してから検索を開始します。"/>
-    <Translation ID="FIF_SET_DISTP" String="このオプションを使用すると、検索ボックス入力時のラグが軽減できます。"/>
+    <Translation ID="FIF_SET_DIS" String="検索時のリアルタイムサーチを無効化して、ENTERを押してから検索を開始します"/>
+    <Translation ID="FIF_SET_DISTP" String="このオプションを使用すると、検索ボックス入力時のラグが軽減できます"/>
     <Translation ID="FIF_SET_STAB" String="検索タブを表示"/>
     <Translation ID="FIF_STAB_NTAB" String="新規タブ"/>
+    <Translation ID="FIF_SET_DSK" String="Find It!のパネルを閉じた時は、セカンダリのキーボードショートカットを無効化"/>
+    <Translation ID="FIF_SET_DSKTP" String="TM:PEとの競合を避けます。 Find It!のパネルを閉じても、メインのキーボードショートカットが機能します"/>
+    <Translation ID="FIF_SET_CFFL" String="設定ファイルの場所"/>
 
   </Translations>
 </Language>
