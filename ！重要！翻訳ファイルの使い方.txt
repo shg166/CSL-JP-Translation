@@ -54,7 +54,11 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
-Curb Height Adjuster		".\2674842365\Translations"	2021/12/07 - 新規に追加
+Stats				".\1410077595\Localization"	2021/12/19 - 新規に追加
+
+Write The Signs							2021/12/14 - MODで全て対応
+
+Curb Height Adjuster		".\2674842365\Translations"	2021/12/07 - MODで全て対応
 
 Prop Anarchy			".\2611824446\Locale"		2021/12/05 - 新規に追加
 
