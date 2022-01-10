@@ -54,7 +54,17 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
-Stats				".\1410077595\Localization"	2021/12/19 - 新規に追加
+algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		2022/01/09 - 新規に追加
+そして、sway氏の全てのMODが、CrowdInへの翻訳に移行しています
+整合性の確保と翻訳ファイルの構造が変わるため、今後は利用できません
+トラブル防止のため、クラウド内にある翻訳ファイルを消去します
+
+Image Overlay 2			".\2616880500\Locale"		2022/01/09 - 新規に追加
+Prop Anarchy			".\2611824446\Locale"		2022/01/09 - MODで全て対応
+More CitizenUnits		".\2654364627\Translations"	2022/01/09 - MODで全て対応
+More PathUnits			".\2710657019\Translations"	2022/01/09 - MODで全て対応
+
+Stats				".\1410077595\Localization"	2021/12/21 - MODで全て対応
 
 Write The Signs							2021/12/14 - MODで全て対応
 
