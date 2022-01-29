@@ -1,0 +1,695 @@
+﻿#Kyle45氏のMODを日本語化します
+#このTXTファイルで、日本語化に対応するMOD
+#Addresses＆names・Asset Color Expander・Custom Zone Mixer・Electric Roads
+#Trees Respiration・Vehicle Wealthizer・Vehicle Master Control・Prop Switcher
+#Write the Signs
+#Transport Lines Managerと、Upgrade Untouchable: Convert stationsは既にMODで対応済み
+
+#Klyte Commons Includableの翻訳
+%TUTORIAL_ADVISER_TITLE|Klyte45Button=
+%TUTORIAL_ADVISER|Klyte45Button=
+BETAS_EXTRA_INFO=追加設定
+ORIGINAL_TLM_VERSION=Klyte Commons' のオリジナルバージョン:
+
+MOD_LANG=MODの使用言語
+GAME_DEFAULT_LANGUAGE=ゲーム言語と同じ
+LANG|ko=韓国語
+LANG|pt=ポルトガル語
+LANG|en=英語
+LANG|de=ドイツ語
+LANG|pl=ポーランド語
+LANG|nl=オランダ語
+LANG|fr=フランス語
+LANG|es=スペイン語
+LANG|ru=ロシア語
+LANG|cn=中国語(簡体)
+LANG|zh=中国語(繁体)
+LANG_ko=韓国語
+LANG_pt=ポルトガル語
+LANG_en=英語
+LANG_de=ドイツ語
+LANG_pl=ポーランド語
+LANG_nl=オランダ語
+LANG_fr=フランス語
+LANG_es=スペイン語
+LANG_ru=ロシア語
+LANG_cn=中国語(簡体)
+LANG_zh=中国語(繁体)
+
+LANG_NOTICE=現在、Klyte Commons’に依存する全てのMODは、この言語設定を使用中です。選択した言語で未翻訳がある場合は、英語で表示されます。
+
+VERSION_SHOW=MODのバージョン: {0}
+DEBUG_MODE=デバッグモード
+RELEASE_NOTES=このバージョンのリリースノート
+GENERAL_INFO=一般情報
+
+CARDINAL_POINT_LONG|0=北
+CARDINAL_POINT_LONG|1=北東
+CARDINAL_POINT_LONG|2=東
+CARDINAL_POINT_LONG|3=南東
+CARDINAL_POINT_LONG|4=南
+CARDINAL_POINT_LONG|5=南西
+CARDINAL_POINT_LONG|6=西
+CARDINAL_POINT_LONG|7=北西
+CARDINAL_POINT_LONG|8=不明
+
+CARDINAL_POINT_SHORT|0=N
+CARDINAL_POINT_SHORT|1=NE
+CARDINAL_POINT_SHORT|2=E
+CARDINAL_POINT_SHORT|3=SE
+CARDINAL_POINT_SHORT|4=S
+CARDINAL_POINT_SHORT|5=SW
+CARDINAL_POINT_SHORT|6=W
+CARDINAL_POINT_SHORT|7=NW
+CARDINAL_POINT_SHORT|8=??
+
+ALIGNMENT|Left=左
+ALIGNMENT|Center=中央
+ALIGNMENT|Right=右
+
+VERT_ALIGNMENT|Top=上
+VERT_ALIGNMENT|Middle=中央
+VERT_ALIGNMENT|Bottom=下
+
+LANG_CTRL_MOD_INFO=このMODの言語は、 {0} によって制御中
+TO_MAIN_MENU_DISABLE_WARNING=ゲームの仕様上の理由から、都市のロード後に再びメインメニューに戻ることは出来ません。\nメインメニューに戻ると、セーブした都市が破損する可能性があります。\n別の都市をロードしたい場合は、ゲームを終了して再び起動してください。\nあなたの都市を保護するため、このような動作になっています。
+
+MOD_PANEL_TITLE=Klyte45's Mods
+
+#New commons entries!
+CMNS_HELP=ヘルプ
+CMNS_OK=OK
+CMNS_NEXT=次へ
+CMNS_PREV=前へ
+CMNS_HELP_FORMAT=ヘルプ: {0} ({1}/{2})
+CMNS_FLOAT_EDITOR_TOOLTIP_HELP=マウスホイールの回転で数値変更(キーバインド)\nHold Shift: x10\nHold Ctrl: x0.1\nHold Left Alt: x0.01\nHold Right Alt(or Ctrl+Alt): x0.001
+CMNS_PASTE=貼り付け
+CMNS_DELETE_CURRENT_ITEM=現在のアイテムを削除
+CMNS_GOTO_FILELOC=ファイルの場所に移動
+
+CMNS_CLIPBOARD_TITLE=クリップボード
+CMNS_LOAD_FROM_LIB=ライブラリからロード
+CMNS_SAVE_TO_LIB=ライブラリに保存
+CMNS_ADDRULE=新規ルールを追加
+CMNS_MOVERULEUP=ルールの優先度を上げる
+CMNS_MOVERULEDOWN=ルールの優先度を下げる
+CMNS_REMOVERULE=ルールの削除
+CMNS_GOTO_LIBFILE=エクスプローラーでlibファイルに移動
+
+CMNS_LIB_ANERROROCURREDWHILELOADING_TITLE=ライブラリのロード中にエラーが発生
+CMNS_LIB_ANERROROCURREDWHILELOADING_MESSAGE=ライブラリファイル "{0}" ({1}) をロード中にエラーが発生しました。\nファイル形式の確認・ファイルを削除して再生成してください。
+CMNS_LIB_ANERROROCURREDWHILELOADING_OPT_DELETEFILE=ファイルを削除
+CMNS_LIB_ANERROROCURREDWHILELOADING_OPT_GOTOFILE=ファイルの場所に移動
+
+#8/3/21
+CMNS_PAGING_SHOWINGMESSAGE_FMT={0:0} - {1:0} の {2:0} アイテムを表示
+CMNS_ITEMSPERPAGE=ページごとのアイテム数
+
+#23/3/21
+CMNS_USE_LOW_BRIGHT_BUTTON=ゲーム中のUIで暗めのアイコンを使用
+
+#14/10/21
+LANG|ja=日本語
+LANG_ja=日本語
+
+#22/10/21
+CMNS_CARDINALPOINT_SHORT|N=N
+CMNS_CARDINALPOINT_SHORT|NNE=NNE
+CMNS_CARDINALPOINT_SHORT|NE=NE
+CMNS_CARDINALPOINT_SHORT|ENE=ENE
+CMNS_CARDINALPOINT_SHORT|E=E
+CMNS_CARDINALPOINT_SHORT|ESE=ESE
+CMNS_CARDINALPOINT_SHORT|SE=SE
+CMNS_CARDINALPOINT_SHORT|SSE=SSE
+CMNS_CARDINALPOINT_SHORT|S=S
+CMNS_CARDINALPOINT_SHORT|SSW=SSW
+CMNS_CARDINALPOINT_SHORT|SW=SW
+CMNS_CARDINALPOINT_SHORT|WSW=WSW
+CMNS_CARDINALPOINT_SHORT|W=W
+CMNS_CARDINALPOINT_SHORT|WNW=WNW
+CMNS_CARDINALPOINT_SHORT|NW=NW
+CMNS_CARDINALPOINT_SHORT|NNW=NNW
+
+#Addresses＆namesの翻訳
+ADR_BETAS_EXTRA_INFO=追加設定
+ADR_ORIGINAL_TLM_VERSION=Klyte Commons' のオリジナルバージョン:
+
+ADR_MOD_LANG=MODの使用言語
+ADR_GAME_DEFAULT_LANGUAGE=ゲーム言語と同じ
+ADR_LANG|ko=韓国語
+ADR_LANG|pt=ポルトガル語
+ADR_LANG|en=英語
+ADR_LANG|de=ドイツ語
+ADR_LANG|pl=ポーランド語
+ADR_LANG|nl=オランダ語
+ADR_LANG|cn=中国語(簡体)
+ADR_LANG|ja=日本語
+
+ADR_DEBUG_MODE=デバッグモード
+ADR_RELEASE_NOTES=このバージョンのリリースノート
+ADR_GENERAL_INFO=一般情報
+ADR_ROAD_NAME_FILES_PATH_TITLE=道路名のオプションフォルダ
+ADR_ROAD_PREFIX_NAME_FILES_PATH_TITLE=道路修飾子のオプションフォルダ
+
+ADR_NAMING_FILE_SELECTION=名前のファイル
+ADR_BUILDING_ADDRESS=建物の住所
+ADR_DISTRICT_TITLE=地区
+
+ADR_CONFIG_PER_DISTRICT_TAB=地区ごとの設定
+ADR_CONFIG_HIGHWAY_TAB=一般道路と高速道路の設定
+ADR_CONFIG_GLOBAL_TAB=グローバル設定
+
+ADR_DISTRICT_NAME_FILE=道路の命名用ファイル
+ADR_ROAD_NAME_FILES_RELOAD=ファイルを再読み込み
+ADR_STREETS_PREFIXES_NAME_FILE=道路の修飾子用ファイル
+ADR_STREETS_PREFIXES_FILES_RELOAD=ファイルを再読み込み
+ADR_DEFAULT_CITY_FILE_NAME=<Use the city file>
+ADR_DEFAULT_FILE_NAME=<Use the game default>
+ADR_DEFAULT_CITY_FILE_NAME_PREFIX=<Use the city file>
+ADR_DEFAULT_FILE_NAME_PREFIX=<Use the game default>
+
+ADR_DISTRICT_POSTAL_CODE=地区の郵便番号(最大3桁)
+ADR_CITY_POSTAL_CODE=都市の郵便番号(最大3桁)
+ADR_POSTAL_CODE_FORMAT=郵便番号の書式(下記の凡例を参照)
+
+ADR_POSTAL_CODE_FORMAT_LEGEND>0=A: 地区コード(2桁) - 00で無し
+ADR_POSTAL_CODE_FORMAT_LEGEND>1=B: 地区コード(3桁) - 000で無し
+ADR_POSTAL_CODE_FORMAT_LEGEND>2=C: エリア(タイル)のX軸(0-8)
+ADR_POSTAL_CODE_FORMAT_LEGEND>3=D: エリア(タイル)のY軸(0-8)
+ADR_POSTAL_CODE_FORMAT_LEGEND>4=E: エリアを分割したX軸(0-9)
+ADR_POSTAL_CODE_FORMAT_LEGEND>5=F: エリアを分割したY軸(0-9)
+ADR_POSTAL_CODE_FORMAT_LEGEND>6=G: 都市の固有番号(1桁)
+ADR_POSTAL_CODE_FORMAT_LEGEND>7=H: 都市の固有番号(2桁)
+ADR_POSTAL_CODE_FORMAT_LEGEND>8=I: 都市の固有番号(3桁) 
+ADR_POSTAL_CODE_FORMAT_LEGEND>9=J: セグメントID(道路の内部コード)の下1桁
+ADR_POSTAL_CODE_FORMAT_LEGEND>10=K: セグメントID(道路の内部コード)の下2桁
+ADR_POSTAL_CODE_FORMAT_LEGEND>11=L: セグメントID(道路の内部コード)の下3桁
+
+ADR_POSTAL_CODE_FORMAT_OBSERVATION>0=OBS: J・K・Lのコードは、郵便番号にランダム性を得るために使用します
+ADR_POSTAL_CODE_FORMAT_OBSERVATION>1=OBS2: 他の文字を入力すると、郵便番号にそのまま表示されます
+
+ADR_ADDITIONAL_FILES_SOURCE=追加のファイルソース
+ADR_GET_FILES_GITHUB=Klyte45のGitHubから、道路命名を行うために新しいファイルを入手してください
+ADR_GO_TO_GITHUB=GitHubへアクセス
+
+ADR_%TUTORIAL_ADVISER_TITLE|AddressesButton=住所 - 建物の住所を指定
+ADR_%TUTORIAL_ADVISER|AddressesButton=このウィンドウでは、ゲームが都市内で使う道路のデフォルト名を生成する際の命名ルールを設定します。\nKlyte45のGitHubで新しい命名ファイルを入手したり、一行ごとに名前を入れて独自のファイルを作成可能です。\n道路タイプのprefix/suffix（名前の組み合わせで生成）も、テキストファイルから定義できます。\n他のモデルはGitHubで入手、GitHub Addresses Files' projectのRoadPrefix folderにある、README.mdの説明を読んで自分で作成してください。\n\nhttps://github.com/klyte45/AddressesFiles
+
+#1.1
+ADR_CONFIG_NEIGHBOR_TAB=近隣のオプション
+ADR_AZIMUTH_EDITOR_TITLE=近隣の方位角エディタ
+ADR_CITY_NEIGHBORHOOD=都市の周辺
+ADR_CITY_AREA=都市 81タイルのエリア
+ADR_AZIMUTH_GRADOS_TITLE=方位角(°)
+ADR_DIRECTION_TITLE=方向
+ADR_GEN_NAME_TITLE=近隣住民の名前を生成
+ADR_REGENERATE_NAME=名前を再生成
+ADR_DELETE_STOP_NEIGHBOR=削除
+
+ADR_NEIGHBOR_CITIES_NAME_FILES_PATH_TITLE=都市の近隣住民名のフォルダ
+ADR_REGION_CITIES_FILE=都市の近隣住民名のファイル
+ADR_ADD_REG_CITY=都市を追加
+ADR_DEFAULT_CITIES_REGIONAL_NAMES=<Game's default>
+
+#1.3
+ADR_BUILDING_CONFIGURATIONS=建物名の設定
+ADR_AUTONAME_TRAIN_STATIONS=鉄道駅を自動命名 
+ADR_AUTONAME_MONORAIL_STATIONS=モノレール駅を自動命名 
+ADR_AUTONAME_METRO_STATIONS=地下鉄駅を自動命名 
+ADR_AUTONAME_CABLE_CAR_STATIONS=ケーブルカー駅を自動命名 
+ADR_AUTONAME_FERRY_STATIONS=フェリー乗り場を自動命名 
+ADR_AUTONAME_SHIP_STATIONS=旅客港を自動命名 
+ADR_AUTONAME_BLIMP_STATIONS=飛行船乗り場を自動命名 
+ADR_AUTONAME_AIRPLANE_STATIONS=空港を自動命名 
+ADR_ENABLE_CUSTOM_NAMING_CARGO_SHIP=貨物港を自動命名
+ADR_ENABLE_CUSTOM_NAMING_CARGO_TRAIN=貨物駅を自動命名
+ADR_ENABLE_ADDRESS_NAMING_RES=住宅区画の名称に住所を使用
+ADR_ENABLE_ADDRESS_NAMING_IND=産業区画の名称に住所を使用
+ADR_ENABLE_ADDRESS_NAMING_COM=商業区画の名称に住所を使用
+ADR_ENABLE_ADDRESS_NAMING_OFF=オフィス区画の名称に住所を使用
+
+ADR_ADDRESS_LINES=住所の行
+ADR_ADDRESS_LINE1=1行目
+ADR_ADDRESS_LINE2=2行目
+ADR_ADDRESS_LINE3=3行目
+ADR_ADDRESS_FORMAT_LEGEND>0=A: 通り名
+ADR_ADDRESS_FORMAT_LEGEND>1=B: 番号(通りの始点からの距離)
+ADR_ADDRESS_FORMAT_LEGEND>2=C: 都市名
+ADR_ADDRESS_FORMAT_LEGEND>3=D: 地区
+ADR_ADDRESS_FORMAT_LEGEND>4=E: 郵便番号
+ADR_ADDRESS_FORMAT_LEGEND>5=[]: 括弧内のテキストは、地区設定がある場合のみで表示されます
+
+#1.4
+ADR_DISTRICT_PREFIXES_FILES_PATH_TITLE=地区修飾子のオプションフォルダ
+ADR_DISTRICT_NAME_FILES_PATH_TITLE=地区名のオプションフォルダ
+ADR_CITIZEN_FIRST_NAME_MASC_FILES_PATH_TITLE=Citizen(男性名)のオプションフォルダ
+ADR_CITIZEN_FIRST_NAME_FEM_FILES_PATH_TITLE=Citizen(女性名)のオプションフォルダ
+ADR_CITIZEN_LAST_NAME_FILES_PATH_TITLE=Citizen(苗字)のオプションフォルダ
+
+ADR_DISTRICT_GEN_PREFIX_FILE=地区の修飾子用ファイル
+ADR_DISTRICT_GEN_PREFIX_FILES_RELOAD=ファイルを再読み込み
+ADR_DISTRICT_GEN_NAME_FILE=地区の修飾子用ファイル
+ADR_DISTRICT_GEN_NAME_FILES_RELOAD=ファイルを再読み込み
+
+ADR_CONFIG_CITIZEN_TAB=Citizenの設定
+ADR_CITIZEN_MALE_FIRST_NAME_FILE=Citizen(男性名)用のファイル
+ADR_CITIZEN_MALE_FIRST_NAME_FILES_RELOAD=ファイルを再読み込み
+ADR_CITIZEN_FEMALE_FIRST_NAME_FILE=Citizen(女性名)用のファイル
+ADR_CITIZEN_FEMALE_FIRST_NAME_FILES_RELOAD=ファイルを再読み込み
+ADR_CITIZEN_LAST_NAME_FILE=Citizen(苗字)用のファイル
+ADR_CITIZEN_LAST_NAME_FILES_RELOAD=ファイルを再読み込み
+
+#1.5
+ADR_ZERO_MARKER_DETAIL=都市内で0の基点を指定
+ADR_DISTRICT_COLOR=地区のカラー
+
+#2.0
+ADR_ENABLE_CUSTOM_NAMING_CARGO_AIRPLANE=貨物空港を自動命名
+
+#3.0
+ADR_POSTAL_CODE_FORMAT_LEGEND_TITLE=ヘルプ: 郵便番号の書式
+ADR_ADDRESS_LINES_FORMAT_LEGEND_TITLE=ヘルプ: 住所のラインの書式
+ADR_BUILDING_PASSENGERS=駅名を生成: 
+ADR_BUILDING_CARGO=貨物施設の名前を生成: 
+ADR_BUILDING_USE_ADDRESS=住所を名前として使用:
+ADR_POSTAL_CODE_FORMAT_2=郵便番号の形式
+ADR_POSTAL_CODE_FORMAT_LEGEND_V3>0=ABCDE: 名前を生成するシード値からの数字 (00000～65535, 文字数と数字が対応)
+ADR_POSTAL_CODE_FORMAT_LEGEND_V3>1=FGHIJ: セグメントID(道路の内部コード - 00000～36864, 文字数と数字が対応)
+ADR_POSTAL_CODE_FORMAT_LEGEND_V3>2=KLM: 都市の固有番号, 文字数と数字が対応(000～999)
+ADR_POSTAL_CODE_FORMAT_LEGEND_V3>3=NOP: 地区のコード, 文字数と数字が対応(000～999)
+ADR_POSTAL_CODE_FORMAT_LEGEND_V3>4=Xx: マップ X軸方向の座標: <color yellow>X</color>はエリア(タイル)、<color yellow>x</color>はエリアの分割を表します。
+ADR_POSTAL_CODE_FORMAT_LEGEND_V3>5=Yy: マップ Y軸方向の座標: <color yellow>Y</color>はエリア(タイル)、<color yellow>y</color>はエリアの分割を表します。
+ADR_POSTAL_CODE_FORMAT_OBSERVATION_V3>0=Tips: FGHIJのコードを使用して、郵便番号にランダム性を追加
+ADR_POSTAL_CODE_FORMAT_OBSERVATION_V3>1=Note: 他の文字は郵便番号でそのまま表示されます。また、全てのテキストは二重引用符(")で囲まれるか、バックスラッシュ(/)が挿入されます。
+ADR_RESET_POSTAL_CODE=デフォルトのコードにリセット
+
+ADR_HIGHWAY_TYPES_TAB=高速道路のタイプ
+ADR_EDITOR_SELECTAITEM=上のボックスに入力してアイテムを選択すると、その詳細が表示されます。もしくは、 <sprite K45_New> のNewボタンをクリックすると、新しいアイテムが作成されます。
+ADR_TOOLTIP_LAYOUTSELECTOR=アイテムセレクターの編集
+ADR_DELETE_SELECTED_CONFIG=選択した設定を削除
+ADR_IMPORTINTOCITY_CONFIG=設定をセーブゲームにコピー
+ADR_CREATE_NEW_CONFIG=新しい設定を作成
+ADR_RELOADFILES=ファイルを再読み込み
+ADR_EDITOR_CONFIGDELETE_TITLE=アイテムの削除
+ADR_EDITOR_CONFIGDELETE_MESSAGE=<color yellow>{0}</color> を削除してもよろしいですか？
+ADR_EDITOR_CONFIGNEW_TITLE=アイテムの作成
+ADR_EDITOR_CONFIGNEW_MESSAGE=新しいアイテムの名前を入力
+ADR_EDITOR_CONFIGNEW_INVALIDNAME=無効な名前です！
+ADR_EDITOR_CONFIGNEW_ALREADY_EXISTS=このアイテム名は既に存在します
+ADR_CURRENTSOURCE_GLOBAL=アイテムのソース: グローバル, レイアウトを編集するために現在の都市へインポート
+ADR_CURRENTSOURCE_CITY=アイテムのソース: この都市(セーブゲーム)
+ADR_EDITOR_CONFIGNEW_ANERROROCURRED=エラーが発生しました
+ADR_HW_SHORTPREFIX=このタイプのShortバージョンの文字列(例: <color yellow>I-</color>)
+ADR_HW_SHORTINVERT=識別子の末尾に連結(Short)
+ADR_HW_SHORTADDSPACE=識別子とタイプの間にスペースを追加(Short)
+ADR_HW_FULLPREFIX=このタイプのLongバージョンの文字列(例: <color yellow>Interstate</color>, N/Aだと、Shortと同じに出来ます)
+ADR_HW_FULLINVERT=識別子の末尾に連結(Long)
+ADR_HW_FULLADDSPACE=識別子とタイプの間にスペースを追加(Long)
+ADR_HW_EXAMPLETITLE=例: (<color #888899>XXX</color> は、道路インスタンスからの識別子を表記)
+ADR_SAVESUCCESSFULLAT={0} で、正常にエクスポートされました
+ADR_EXPORTASGLOBAL_CONFIG=グローバルとしてエクスポート
+
+ADR_HIGHWAYNAMESEED_TAB=道路名のシード値を設定
+ADR_PICK_A_SEGMENT=セグメントのシード値を選択
+ADR_CURRENTSELECTION=現在の選択
+ADR_PAINTSEED=別のシード値から、現在のシード値へ切り替えます。\nこのシード値は、リンクされた全てのセグメントに適用されます。\nそして、選択された新しいセグメントと、同じシード値を持つ隣接する全てのセグメントへ再適用されます。
+ADR_CHANGESEED_INTERCROSS=次の交差点までの選択範囲で、シード値を変更します。\n選択中のノードから繋がったノードと、2つ以上のセグメントのリンクが必要です。\nそして、同じシード値を持つノード間の全てのセグメントに対して、新しいシード値を生成します。
+ADR_HIGHWAYITEM_TYPE=高速道路のタイプ(該当する場合)
+ADR_HIGHWAYITEM_ID=識別子
+ADR_HIGHWAYITEM_FORCEDNAME=強制的な名前(書式設定時にパラメータ {9} を使用)
+ADR_HIGHWAYITEM_FORCEDNAME_SHOWDIRECTION=このシード値が一方通行のセグメントにある場合は、強制的な名前の最後に進行方向を追加します。
+ADR_HIGHWAYITEM_MILEAGEOFFSET=移動距離の開始オフセット(メートル)
+ADR_HIGHWAYITEM_INVERTMILEAGE=移動距離の開始地点を反転
+ADR_HIGHWAYITEM_COLOR=高速道路のカラー(該当する場合)
+ADR_HW_DETTACHEDPREFIX=分離したPrefix(主にWrite the Signs Modのレイアウトで使用)
+ADR_HIGHWAY_CONFIGS_FILES_PATH_TITLE=高速道路のタイプ設定があるファイルとフォルダ
+
+ADR_AUTONAME_BUS_STATIONS=市内バスの停留所を自動命名
+ADR_AUTONAME_INTERCITYBUS_STATIONS=都市間バスの停留所を自動命名
+ADR_AUTONAME_TROLLEYBUS_STATIONS=トローリーバスの停留所を自動命名
+ADR_AUTONAME_TRAM_STATIONS=トラムの停留所を自動命名
+ADR_AUTONAME_HELICOPTER_STATIONS=旅客ヘリ乗り場を自動命名
+
+#3.1
+ADR_FOOTBALL_TEAMNAMES_FILES_PATH_TITLE=サッカーチーム名のフォルダ(DLC Match Dayが必要)
+ADR_FOOTBALLFILES_PROBLEM_HEAD=チーム名の記述やファイルに問題があります。詳細はoutput.logを確認してください。問題のあるファイル:
+ADR_FOOTBALLOPPONENTS_NAME_FILE=対戦相手のチーム名のファイル
+ADR_CONFIG_FOOTBALL_TAB=サッカー
+ADR_CITYSTADIUMS=都市のスタジアムとそのチーム
+ADR_GOTO_STADIUMSSETTINGS=Addresses & Names Modのスタジアムの設定に移動
+ADR_STADIUMNAME=スタジアムの名前
+ADR_TEAMNAME=チームの名前
+ADR_TEAMCLR_SHORT=チームのカラー
+ADR_STADIUMADDRESS=スタジアムの住所
+
+#Asset Color Expanderの翻訳
+ACE_ANYSERVICE_OPTION=<Any service>
+ACE_BASICTAB_CLASSFILTER=許可するクラス
+ACE_BASICTAB_LEVELFILTER=許可するレベル
+ACE_BASICTAB_NAME=ルール名
+ACE_BASICTAB_RULEFILTER=属性のルールフィルタ
+ACE_BASICTAB_SERVICEFILTER=許可するサービス
+ACE_BASICTAB_SUBSERVICEFILTER=許可するサブサービス
+ACE_BUILDINGRULES_ASSETSELECT=許可する建物
+ACE_BASICTAB_DISTRICTFILTER=建物の地区別フィルター
+ACE_BUILDINGRULES_COLORMODE=建物の着色モード
+ACE_BUILDINGRULES_RULEFILTER=建物のルールフィルター
+ACE_BASICTAB_DISTRICTRESTRICTIONSOLVEORDER=地区と公園の重複条件
+ACE_BASICTAB_DISTRICTSELECTIONASBLACKLIST=選択された以外の全て (Blacklist)
+ACE_BASICTAB_DISTRICTSELECTIONASWHITELIST=選択した物のみ (Whitelist)
+ACE_BUILDINGRULES_EXPORTRULELIST_MESSAGE_CONFIRMOVERWRITE=同じ名前のルールセットは既に存在します。上書きしますか？
+ACE_BUILDINGRULES_EXPORTRULELIST_MESSAGE_INVALIDNAME=無効な名前です！
+ACE_BUILDINGRULES_EXPORTRULELIST_MESSAGE_SUCCESSSAVEDATA={0} のライブラリにビルディングルールが保存されました！
+ACE_BUILDINGRULES_EXPORTRULELIST_MESSAGE=このルールリストをエクスポートする名前を設定
+ACE_BUILDINGRULES_EXPORTRULELIST_TITLE=建物のルールセットをエクスポート
+ACE_BUILDINGRULES_EXPORTRULELIST=建物のルールセットをエクスポート
+ACE_BUILDINGRULES_IMPORTRULELIST_MESSAGE_NOENTRIESFOUND=ルールライブラリが空です！ (<color #FFFF00>{0}</color> のルール)
+ACE_BUILDINGRULES_IMPORTRULELIST_MESSAGE=インポートするルールセットを選択します
+ACE_BUILDINGRULES_IMPORTRULELIST_TITLE=建物のルールセットをインポート
+ACE_BUILDINGRULES_IMPORTRULELIST=建物のルールセットをインポート
+ACE_BUILDINGRULES_RULELISTTITLE=建物の着色ルール
+ACE_BUILDINGSRULEEDITOR_TAB=建設のルール
+ACE_COLORINGMODE|LIST=カラーリスト
+ACE_COLORINGMODE|PASTEL_FULL_VIVID=パステル: 鮮やかな色
+ACE_COLORINGMODE|PASTEL_HIGHER_SATURATION=パステル: 高い彩度
+ACE_COLORINGMODE|PASTEL_ORIG=パステル(オリジナル)
+ACE_COLORMODE_ALLOWBLUETONES=青系の色味を出す
+ACE_COLORMODE_ALLOWGREENTONES=緑系の色味を出す
+ACE_COLORMODE_ALLOWNEUTRALTONES=自然な色味を出す
+ACE_COLORMODE_ALLOWREDTONES=赤系の色味を出す
+ACE_COLORMODE=着色モード
+ACE_DISTRICTRESTRICTIONORDER|ParksAndDistricts=両方とも許可
+ACE_DISTRICTRESTRICTIONORDER|ParksOrDistricts=最低でも1つは許可する必要があります
+ACE_RULECHECKTYPE|ASSET_NAME_OWNER=出入り先の建物
+ACE_RULECHECKTYPE|ASSET_NAME_SELF=アセット
+ACE_RULECHECKTYPE|ASSET_NAME=アセット
+ACE_RULECHECKTYPE|ITEM_CLASS=アセットクラス
+ACE_RULECHECKTYPE|SERVICE_LEVEL=サービス＆レベル
+ACE_RULECHECKTYPE|SERVICE_SUBSERVICE_LEVEL=サービス＆サブサービス＆レベル
+ACE_RULECHECKTYPE|SERVICE_SUBSERVICE=サービス＆サブサービス
+ACE_RULECHECKTYPE|SERVICE=サービス
+ACE_BASICTAB_APPEARANCE_SETTINGS=カラーの設定
+ACE_BASICTAB_BASIC_SETTINGS=ルールの設定
+ACE_BASICTAB_DISTRICT_SETTINGS=地区の設定
+ACE_BASICTAB_LIB_SETTINGS=ルールのインポート/エクスポートの設定とクリップボード
+ACE_VEHICLERULES_ALLOWWAGONWITHDIFFERENTCOLORS=トレーラー間で異なる色を許可
+ACE_VEHICLERULES_ASSETSELECTOWNER=出入り先の建物を選択
+ACE_VEHICLERULES_ASSETSELECTSELF=モデルを選択
+ACE_VEHICLERULES_EXPORTRULELIST_MESSAGE_CONFIRMOVERWRITE=同じ名前のルールセットは既に存在します。上書きしますか？
+ACE_VEHICLERULES_EXPORTRULELIST_MESSAGE_INVALIDNAME=無効な名前です！
+ACE_VEHICLERULES_EXPORTRULELIST_MESSAGE_SUCCESSSAVEDATA={0} のライブラリに車両ルールが保存されました！
+ACE_VEHICLERULES_EXPORTRULELIST_MESSAGE=このルールリストをエクスポートする名前を設定
+ACE_VEHICLERULES_EXPORTRULELIST_TITLE=車両のルールセットをエクスポート
+ACE_VEHICLERULES_EXPORTRULELIST=車両のルールセットをエクスポート
+ACE_VEHICLERULES_IMPORTRULELIST_MESSAGE_NOENTRIESFOUND=ルールライブラリが空です！ (<color #FFFF00>{0}</color> のルール)
+ACE_VEHICLERULES_IMPORTRULELIST_MESSAGE=インポートするルールセットを選択します
+ACE_VEHICLERULES_IMPORTRULELIST_TITLE=車両のルールセットをインポート
+ACE_VEHICLERULES_IMPORTRULELIST=車両のルールセットをインポート
+ACE_VEHICLERULES_RULELISTTITLE=車両の着色ルール
+ACE_VEHICLESRULEEDITOR_TAB=車両のルール
+
+ACE_VEHICLERULES_COLORMODE=車両の着色モード
+ACE_VEHICLERULES_RULEFILTER=車両のルールフィルター
+
+ACE_CITIZENRULEEDITOR_TAB=Citizenのルール
+ACE_CITIZENRULES_RULELISTTITLE=Citizenの着色ルール
+ACE_CITIZENRULES_EXPORTRULELIST_MESSAGE_CONFIRMOVERWRITE=同じ名前のルールセットは既に存在します。上書きしますか？
+ACE_CITIZENRULES_EXPORTRULELIST_MESSAGE_INVALIDNAME=無効な名前です！
+ACE_CITIZENRULES_EXPORTRULELIST_MESSAGE_SUCCESSSAVEDATA={0} のライブラリにCitizenルールが保存されました！
+ACE_CITIZENRULES_EXPORTRULELIST_MESSAGE=このルールリストをエクスポートする名前を設定
+ACE_CITIZENRULES_EXPORTRULELIST_TITLE=Citizenのルールセットをエクスポート
+ACE_CITIZENRULES_EXPORTRULELIST=Citizenのルールセットをエクスポート
+ACE_CITIZENRULES_IMPORTRULELIST_MESSAGE_NOENTRIESFOUND=ルールライブラリが空です！ (<color #FFFF00>{0}</color> のルール)
+ACE_CITIZENRULES_IMPORTRULELIST_MESSAGE=インポートするルールセットを選択します
+ACE_CITIZENRULES_IMPORTRULELIST_TITLE=Citizenのルールセットをインポート
+ACE_CITIZENRULES_IMPORTRULELIST=Citizenのルールセットをインポート
+ACE_RULECHECKTYPE|AI=AI
+ACE_BASICTAB_AIFILTER=AI の実装クラス
+ACE_CITIZENRULES_ASSETSELECT=アセットの選択
+ACE_COLORINGMODE|SKIP=スキップ (デフォルトを使用)
+
+ACE_PROPRULEEDITOR_TAB=Propのルール
+ACE_PROPRULES_RULELISTTITLE=Propの着色ルール
+ACE_PROPRULES_EXPORTRULELIST_MESSAGE_CONFIRMOVERWRITE=同じ名前のルールセットは既に存在します。上書きしますか？ 
+ACE_PROPRULES_EXPORTRULELIST_MESSAGE_INVALIDNAME=無効な名前です！
+ACE_PROPRULES_EXPORTRULELIST_MESSAGE_SUCCESSSAVEDATA={0} のライブラリにPropルールが保存されました！
+ACE_PROPRULES_EXPORTRULELIST_MESSAGE=このルールリストをエクスポートする名前を設定
+ACE_PROPRULES_EXPORTRULELIST_TITLE=Propのルールセットをエクスポート
+ACE_PROPRULES_EXPORTRULELIST=Propのルールセットをエクスポート
+ACE_PROPRULES_IMPORTRULELIST_MESSAGE_NOENTRIESFOUND=ルールライブラリが空です！ (<color #FFFF00>{0}</color> のルール)
+ACE_PROPRULES_IMPORTRULELIST_MESSAGE=インポートするルールセットを選択します
+ACE_PROPRULES_IMPORTRULELIST_TITLE=Propのルールセットをインポート
+ACE_PROPRULES_IMPORTRULELIST=Propのルールセットをインポート
+ACE_RULECHECKTYPE|ASSET_NAME_BUILDING=親の建物アセット
+ACE_RULECHECKTYPE|ASSET_NAME_NET=親のネットワークアセット
+ACE_RULECHECKTYPE|ASSET_NAME_BUILDING_SELF=親の建物アセット ＋ Prop
+ACE_RULECHECKTYPE|ASSET_NAME_NET_SELF=親のネットワークアセット ＋ Prop
+ACE_RULECHECKTYPE|PARENT_SERVICE=親のサービス
+ACE_RULECHECKTYPE|PARENT_SERVICE_SUBSERVICE=親のサービス＆サブサービス
+ACE_RULECHECKTYPE|PARENT_SERVICE_SUBSERVICE_LEVEL=親のサービス＆サブサービス＆レベル
+ACE_RULECHECKTYPE|PARENT_SERVICE_LEVEL=親のサービス＆レベル
+ACE_RULECHECKTYPE|PARENT_ITEM_CLASS=親のアイテムクラス
+ACE_PROPRULES_ASSETSELECT=Propの選択
+ACE_PROPRULES_ASSETSELECT_NET=ネットワークを選択
+ACE_PROPRULES_ASSETSELECT_BUILDING=建物を選択
+
+ACE_PROPRULES_DISTRICTFILTER=Propの地区フィルター
+ACE_PROPRULES_COLORMODE=Propの着色モード
+ACE_PROPRULES_RULEFILTER=Propのルールフィルター 
+
+ACE_CONFIG_LOADEDCUSTOMCONFIGREPORT_TITLE=アセットのカスタムカラー構成がロードされました
+ACE_CONFIG_LOADEDBUTTON_BUILDINGS=全ての建物一覧
+ACE_CONFIG_LOADEDBUTTON_CITIZENS=全てのCitizen一覧
+ACE_CONFIG_LOADEDBUTTON_NETWORKS=全てのネットワーク一覧
+ACE_CONFIG_LOADEDBUTTON_PROPS=全てのProp一覧
+ACE_CONFIG_LOADEDBUTTON_VEHICLES=全ての車両一覧
+
+ACE_REPORTTITLEFORMAT|BUILDING=建物リスト ({0}/{1})
+ACE_REPORTTITLEFORMAT|CITIZEN=Citizenリスト ({0}/{1})
+ACE_REPORTTITLEFORMAT|NET=ネットワークリスト ({0}/{1})
+ACE_REPORTTITLEFORMAT|PROP_PLACED=Propリスト ({0}/{1})
+ACE_REPORTTITLEFORMAT|VEHICLE=車両リスト ({0}/{1})
+ACE_NOITEMSLOADED=このセッションでは、カスタム設定がありません！
+
+ACE_EXPORTDATA_TOASSETBUILDING=このルールを使って、建物アセットと一緒にエクスポート
+ACE_BUILDINGRULES_EXPORTDATAFORASSET=ワークショップ向けにルールを含めたアセットをパッケージ化
+ACE_EXPORTDATA_TOLOCALBUILDING=この建物ルールをローカル用のデフォルトとして使用
+ACE_BASICTAB_EXPORTDATALOCAL=アセットをローカル用のデフォルト設定として使用する
+
+ACE_EXPORTDATA_TOASSETCITIZEN=このルールを使って、Citizenアセットと一緒にエクスポート
+ACE_EXPORTDATA_TOASSETNET=このルールを使って、ネットワークアセットと一緒にエクスポート
+ACE_EXPORTDATA_TOASSETPROP=このルールを使って、Propアセットと一緒にエクスポート
+ACE_EXPORTDATA_TOASSETVEHICLE=このルールを使って、車両アセットと一緒にエクスポート
+ACE_EXPORTDATA_TOLOCALCITIZEN=このCitizenルールをローカル用のデフォルトとして使用
+ACE_EXPORTDATA_TOLOCALNET=このネットワークルールをローカル用のデフォルトとして使用
+ACE_EXPORTDATA_TOLOCALPROP=このPropルールをローカル用のデフォルトとして使用
+ACE_EXPORTDATA_TOLOCALVEHICLE=この車両ルールをローカル用のデフォルトとして使用
+
+#1.1
+ACE_COLORINGMODE|DISTRICT=地区のカラー (Addresses Modを使用)
+ACE_VEHICLERULES_OVERRIDELINEPREFIXCOLOR=路線のラインカラーやTLMのプレフィックスカラーを無視
+
+#Custom Zone Mixerの翻訳
+ZM_DEFAULT_ZONE_TITLE=ゾーン #{0}
+ZM_ZONE_DESC_Z1=Custom Zone Mixer Modで、1番目で設定可能なゾーニング \n現在のサポート:\n
+ZM_ZONE_DESC_Z2=Custom Zone Mixer Modで、2番目で設定可能なゾーニング \n現在のサポート:\n
+ZM_ZONE_DESC_Z3=Custom Zone Mixer Modで、3番目で設定可能なゾーニング \n現在のサポート:\n
+ZM_ZONE_DESC_Z4=Custom Zone Mixer Modで、4番目で設定可能なゾーニング \n現在のサポート:\n
+ZM_ZONE_DESC_Z5=Custom Zone Mixer Modで、5番目で設定可能なゾーニング \n現在のサポート:\n
+ZM_ZONE_DESC_Z6=Custom Zone Mixer Modで、6番目で設定可能なゾーニング \n現在のサポート:\n
+ZM_ZONE_DESC_Z7=Custom Zone Mixer Modで、7番目で設定可能なゾーニング \n現在のサポート:\n
+
+ZM_EXPORT_DEFAULT_BTN=デフォルトとしてエクスポート
+ZM_IMPORT_DEFAULT_BTN=デフォルトをインポート
+ZM_RESET_BTN=MODのデフォルトを使用
+ZM_ERROR_LOADING_DEFAULTS_TITLE=デフォルト設定の読み込みエラー
+ZM_ERROR_LOADING_DEFAULTS_MESSAGE=デフォルト設定のファイル(<color #FFFF00>{0}</color>) が破損しています。読み込み時にエラーが発生しました。\n\n<color #FF0000>{1} - {2}\n\n{3}</color>\n\nもしMODに問題があれば、エラー情報をコピーしてSteamのワークショップへ投稿してください。
+ZM_OK_BUTTON=OK
+ZM_OPEN_FOLDER_ON_EXPLORER_BUTTON=エクスプローラでフォルダを開く
+ZM_GO_TO_MOD_PAGE_BUTTON=ワークショップの紹介ページへ移動
+
+ZM_GHOST_MODE_OPTION=セーブデータからMODの情報を消去
+ZM_GHOST_MODE_OPTION_TOOLTIP=オプションを有効にして都市を一度ロードすると、MODなしでもプレイできます。
+ZM_GHOST_MODE_MODAL_TITLE=削除が適用されました！
+ZM_GHOST_MODE_MODAL_MESSAGE=都市から余分なゾーニングは全て削除されました。今後は都市をセーブしても、MODなしでプレイが可能です。適用されたルール:\n\n<color #FFFF00> - 建物がある全てのゾーニングは、デフォルトタイプで塗り替えられます。\n - ゾーニングが塗られていても未建築の場所は、住宅→商業→産業→オフィスの優先順位で、各地区のゾーニングとして塗り直します。(低密度が最優先) </color>。\n\n<color #FF0000>注意！: この都市をプレイし続けるにはセーブして、MODの無効化＆ゲームの再起動をしてください。そして、再び都市をロードするまでは、不安定になり安全ではありません。</color>
+
+#Electric Roadsの翻訳
+ER_ACTIVATE_CLASS_BTN=送電を有効化
+ER_DEACTIVATE_CLASS_BTN=送電を無効化
+ER_RETURN_BTN=何もしない
+ER_TITLE_NET_LIST_WINDOW=アセットの区分: {0}
+ER_PATTERN_NET_LIST_FEW=この区分のアセット一覧:\n\n<color #ffff00>{0}</color>
+ER_PATTERN_NET_LIST_FULL=この区分のアセット一覧:\n\n<color #ffff00>{0}</color>\n\t<color #888888>(...更に {1} 個のアセット)</color>
+ER_EXPORT_DEFAULT_BTN=設定を保存してエクスポート
+ER_IMPORT_DEFAULT_BTN=デフォルト設定をインポート
+ER_SELECT_ALL_BTN=全て選択
+ER_SELECT_NONE_BTN=選択しない
+ER_RESET_BTN=デフォルトを使用
+ER_ERROR_LOADING_DEFAULTS_TITLE=デフォルト設定の読み込みエラー
+ER_ERROR_LOADING_DEFAULTS_MESSAGE=デフォルト設定のファイル( <color #FFFF00>{0}</color>) が破損しています。読み込み時にエラーが発生しました。\n\n<color #FF0000>{1} - {2}\n\n{3}</color>\n\nもしMODに問題があれば、エラー情報をコピーしてSteamのワークショップへ投稿してください。
+ER_OK_BUTTON=OK
+ER_OPEN_FOLDER_ON_EXPLORER_BUTTON=エクスプローラでフォルダを開く
+ER_GO_TO_MOD_PAGE_BUTTON=ワークショップの紹介ページへ移動
+ER_GO_TO_THE_GUIDE=ガイドのページへ\n(ログの検索方法)
+
+#Prop Switcherの翻訳
+PS_ADDREPLACEMENTRULE=置換ルールの追加/更新
+PS_CLEARLIST=リストをクリア
+PS_CONFIRMOVERWRITE=<color yellow>{0}</color> という保存済みのルールリストが、ライブラリファイルに存在しています。上書きしますか？
+PS_EMPTYRULESLISTWARNING=ライブラリファイルに保存されたリストはありません
+PS_EXPORTTOLIB=現在のリストをローカルライブラリにエクスポート
+PS_IMPORTFROMLIB=ローカルライブラリからリストをインポート
+PS_INVALIDNAME=無効な名前です！
+PS_REMOVE_PROP_RULE=この置換ルールを削除
+PS_REMOVEPROPPLACEHOLDER=<REMOVE>
+PS_SELECTCONFIGTOLOAD=ロードする置換リストを選択
+PS_SUCCESSEXPORTDATA=リストが正常にライブラリからエクスポートされました
+PS_SWITCHFROM=置換元のProp情報
+PS_SWITCHTO=置換先のProp(削除したい場合は空欄)
+PS_TYPESAVENAMEFORLIST=名前を入力して、現在の設定をライブラリファイルに保存します
+PS_SWITCHFROM_TITLE=置換元のProp
+PS_SWITCHTO_TITLE=置換先のProp
+PS_ACTIONS_TITLE=操作
+PS_INVALIDINPUTINOUT=置換するためには、Prop名を入力する必要があります！
+PS_BUILDINGPROP_TAB=建物ごとのPropのルール
+PS_EXPORTASGLOBAL=このアセット情報で、グローバルルールのリストとしてエクスポートします。\n(任意の都市でこの設定をロードが可能です)\n元に戻す場合は、グローバルフォルダー内に生成されたファイルを削除してください。
+PS_GLOBALPROP_TAB=都市ごとのグローバルなPropのルール
+PS_GLOBALREPLACEMENTPROPFOLDER=建物/ネットワークから、グローバル側で置換したProp情報を含むフォルダ
+PS_NETPROP_TAB=ネットワークごとのPropのルール
+PS_SUCCESSEXPORTDATAGLOBAL=グローバルルールのリストとしてエクスポートされました！\n\n<color yellow>今後のヒント:</color> 元に戻す場合は、生成されたファイルを削除してください
+PS_PARENTPREFAB|BuildingInfo=編集する建物を選択
+PS_PARENTPREFAB|NetInfo=編集するネットワークを選択
+PS_ENABLETOOLPICKER=スポイトツールで選択
+PS_RELOADGLOBAL=建物とネットワークのファイルを再読み込み
+PS_GLOBALCONFIGURATION_INFO=この置換構成は、globalsフォルダー内にあるファイルからロードされました。\n緑表示: 現在、このルールが適用されています。\n赤表示: このルールは、セーブゲームから別のルールによって上書きされました。\n\nフォルダアイコンボタンを使用して、ファイルの場所に移動し、編集/削除が可能です。\nこの画面の上部にある、ボタンストリップからリロードボタンをクリックして、変更を反映することを忘れないでください。 
+PS_GLOBALCONFIGURATION_GOTOFILE=ファイルに移動
+PS_TYPETOFILTERTOOLTIP=テキストを入力して、リストをフィルターしてください
+PS_FILTERSOURCEITEM|ALL=全てのソースが対象
+PS_FILTERSOURCEITEM|GLOBAL=グローバルファイル
+PS_FILTERSOURCEITEM|SAVEGAME=このセーブゲーム
+PS_FIELDSFILTERINFORMATION=これらのデータを利用して、目的のアセットを見つけます:\n- アセットの表示名\n- アセットのプレハブ名(内部名)\n- アセットのワークショップID\n- アセットの作成者名
+PS_ROTATIONOFFSET=角度のオフセット
+PS_ROTATION_TITLE=Rot/Pos Off.
+PS_GLOBALCONFIGURATION_COPYTOCITY=このルールをコピーして、現在のセーブゲームで編集する
+PS_FILTERSOURCEITEM|ACTIVE=有効化済み
+PS_SAMESEEDFORBUILDINGNET=建物/セグメント全体に、同じランダム化のシード値を使用
+PS_RANDOMIZEBY|INSTANCE=(建物/セグメントでランダム化)
+PS_RANDOMIZEBY|POSITION=(完全なランダム)
+
+#1.3
+PS_NETPROP_EDITOR=ネットワークの置換
+PS_BUILDINGPROP_EDITOR=建物の置換
+PS_GLOBAL_EDITOR=グローバルで置換
+PS_POSITIONOFFSETLABEL=位置のオフセット(右方向・上方・前方)
+PS_AUTOSAVE_DESCRIPTION=角度・位置のオフセットを編集するときは自動的に保存
+
+#Trees Respirationの翻訳
+TR_TREES_IN_TERRAIN=地表のツリー: x
+TR_TREES_IN_LOTS=区画/建物/公園内のツリー: x
+TR_TREES_IN_ROADS=道路上のツリー: x
+TR_SIMULATION_ACCURACY=シミュレーション精度(fps/アイテム数): 
+TR_SIMULATION_ACCURACY_TOOLTIP=数値が大きいと、ゲーム遅延の原因になります。\n低い数値の場合は、処理サイクルの倍率を上げます。
+
+#Vehicle Master Controlの翻訳
+VMC_BETAS_EXTRA_INFO=追加設定
+VMC_ORIGINAL_TLM_VERSION=Klyte Commons' のオリジナルバージョン:
+
+VMC_MOD_LANG=MODの使用言語
+VMC_GAME_DEFAULT_LANGUAGE=ゲーム言語と同じ
+VMC_LANG|ko=韓国語
+VMC_LANG|pt=ポルトガル語
+VMC_LANG|en=英語
+VMC_LANG|de=ドイツ語
+VMC_LANG|pl=ポーランド語
+VMC_LANG|nl=オランダ語
+VMC_LANG|ru=ロシア語
+VMC_LANG|cn=中国語(簡体)
+VMC_LANG|ja=日本語
+
+VMC_DEBUG_MODE=デバッグモード
+VMC_RELEASE_NOTES=このバージョンのリリースノート
+VMC_BUILDING_NAME_LABEL=建物名
+VMC_VEHICLE_CAPACITY_LABEL=車両の定員・容量
+
+VMC_DISTRICT_TITLE=地区
+VMC_CONFIG_PER_BUILDING_TAB=建物別の設定
+VMC_CONFIG_PER_DISTRICT_TAB=地区別の設定
+
+VMC_DISTRICT_COLOR_LABEL=地区の車両カラー
+VMC_DISTRICT_ASSET_SELECT_WINDOW_TITLE_PREFIX=この地区で出現可能な車両
+VMC_REMOVE_UNWANTED_TOOLTIP=不要な車両を削除
+VMC_RESET_COLOR=カラーをリセット
+VMC_COLOR_LABEL=カラー
+
+VMC_USE_SINGLE_BUDGET=単一予算を使用
+VMC_USE_PER_PERIOD_BUDGET=期間ごとの予算を使用
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>0=01時～04時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>1=04時～07時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>2=07時～10時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>3=10時～13時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>4=13時～16時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>5=16時～19時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>6=19時～22時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL>7=22時～01時
+VMC_BUDGET_MULTIPLIER_PERIOD_LABEL_ALL=00時～24時
+VMC_BUDGET_SLIDERS_DISTRICT_TITLE=地区の建物予算
+
+VMC_DISTRICT_NONE=<No District>
+
+VMC_VEHICLE_TYPE|Car=乗用車/トラック
+VMC_VEHICLE_TYPE|CableCar=ケーブルカー
+VMC_VEHICLE_TYPE|Helicopter=旅客ヘリ
+VMC_VEHICLE_TYPE|Train=鉄道
+VMC_VEHICLE_TYPE|Plane=飛行機
+VMC_VEHICLE_TYPE|Ship=船舶
+
+VMC_ASSET_SELECT_WINDOW_TITLE={0}\n{1}
+VMC_ASSET_SELECT_WINDOW_TITLE_DISTRICT=地区 "{0}"\n{1}
+VMC_ASSET_SELECT_WINDOW_TITLE_CITY=地区が無いエリア\n{0}
+
+VMC_IGNORE_DISTRICT_CONFIG=地区設定を無視
+VMC_GOTO_BUILDING_CONFIG_EDIT=建物の設定画面へ移動
+
+%TUTORIAL_ADVISER_TITLE|VehiclesMasterControlButton=Vehicles Master Control
+%TUTORIAL_ADVISER|VehiclesMasterControlButton=このウィンドウでは、建物や地区ごとに利用可能なアセットのモデルを選択できます。\n\n各カテゴリーで生成される車両や、出現車両のデフォルトカラーが変更可能です。(照明関係のエフェクトがある場合は除く)
+
+VMC_DIRECTION_LABEL=方向
+
+#2.0
+VMC_ALLOW_GO_OUTSIDE=この地区から他エリアでも、サービスの提供を許可する
+VMC_ALLOW_OUTSIDERS=他の地区から、サービスの提供を許可する 
+VMC_DEFAULT_ALLOW_GO_OUTSIDE=この地区からデフォルトで、他エリアへサービスの提供を許可する
+VMC_DEFAULT_ALLOW_OUTSIDERS=他の地区からデフォルトで、サービスの提供を許可する
+VMC_DISTRICT_SERVICE_RESTRICTIONS=地区サービスの制限オプション
+VMC_RESET_VALUE_CITY_DEFAULT=初期値にリセット
+VMC_DEFAULT_RESTRICTIONS_NOTE=注意！: どの地区にも所属しないエリアのデフォルトは、常に都市全体にサービスを提供します。そして、他の地区からのサービスも全て受け入れます。また、ゲーム内のVMCウィンドウからカテゴリーごとに変更ができます。カテゴリーを変変更すると、他の地区のデフォルト設定も変わります。
+VMC_DEFAULT_RESTRICTIONS_NOTE2=デフォルト値を使用するオプションは、常に地区設定画面で黄色で表示されます。
+VMC_DEFAULT_RESTRICTIONS_NOTE3=警告！: 上記の制限を適用後に、どの建物からも地区へサービス提供をできない場合があります。その場合は地区の所属に関係なく、全ての建物から該当地区へサービスを提供することになります。
+
+#Vehicle Wealthizerの翻訳
+VW_BETAS_EXTRA_INFO=追加設定
+VW_ORIGINAL_TLM_VERSION=Klyte Commons' のオリジナルバージョン:
+
+VW_MOD_LANG=MODの使用言語
+VW_GAME_DEFAULT_LANGUAGE=ゲーム言語と同じ
+VW_LANG|ko=韓国語
+VW_LANG|pt=ポルトガル語
+VW_LANG|en=英語
+VW_LANG|de=ドイツ語
+VW_LANG|pl=ポーランド語
+VW_LANG|nl=オランダ語
+VW_LANG|cn=中国語(簡体)
+VW_LANG|ja=日本語
+
+VW_DEBUG_MODE=デバッグモード
+VW_RELEASE_NOTES=このバージョンのリリースノート
+VW_GENERAL_INFO=一般情報
+
+VW_MODEL_NAME=アセットのモデル名
+VW_REMOVE_UNWANTED_TOOLTIP=各所得レベルから、未選択のモデルを削除
+VW_IMPORT_EXPORT_TITLE=設定のインポートとエクスポート
+VW_RELOAD_IMPORT_FILES=ファイルを再読み込み
+VW_SELECT_FILE_IMPORT=インポートするファイルの選択
+VW_IMPORT_SELECTED=選択した項目をインポート
+VW_EXPORT_CURRENT=現在の設定をエクスポート
+VW_OPEN_FOLDER_IMPORT_EXPORT=インポート＆エクスポートしたフォルダを開く
