@@ -54,9 +54,15 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+More Effective Transfer Manager (continued) ".\2747441985\Locales"	2022/02/09 - 新規に追加
+
+More Effective Transfer Manager	".\1680840913\Locales"		2022/01/30 - 新規に追加
+CSUR ToolBox			".\1959342332\Resources"	2022/01/30 - 新規に追加
+
 Advanced Vehicle Options	".\1548831935\Translations"	2022/01/27 - MODで全て対応
 
 Image Overlay 2			".\2616880500\Locale"		2022/01/19 - MODで全て対応
+注意: 作者側での機械翻訳で、少し表現がおかしいので修正を依頼中です
 
 algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		2022/01/09 - 新規に追加
 そして、sway氏の全てのMODが、CrowdInへの翻訳に移行しています

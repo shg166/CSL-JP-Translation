@@ -1,0 +1,14 @@
+﻿FIX_UNROUTED_TRANSFER_MATCH_DESCRIPTION	ルート化されない輸送先の不一致を修正 (詳細はユーザーガイドを参照)
+FIX_UNROUTED_TRANSFER_MATCH_ENALBE	ルート化されない輸送先の不一致の修正を有効化
+DEBUG_MODE_DESCRIPTION	Building UIとログにデバッグ情報を表示する (パフォーマンスに影響有り)
+DEBUG_MODE_DESCRIPTION_ENALBE	デバッグモードを有効化
+LOCAL_USE_DESCRIPTION_ENALBE	プレイヤーの建物は、都市内の地区でのみサービスを許可する
+FAILED_BUILDING_COUNT	ルート化されない輸送先の不一致がある建物数
+GENERATE_DETAIL_REPORT	MoreEffectiveTransfer.txt で詳細なレポートを生成
+WAREHOUSE_FIRST	倉庫を優先
+ADVANCED_WAREHOUSE	高度な倉庫 (詳細はユーザガイドを参照)
+WAREHOUSE_SPAWN_UNSPAWN	倉庫の出現と帰還のスポーン位置を修正
+WAREHOUSE_RESEVER_FOR_CITY	都市内の輸送用に倉庫の貨物トラックを予約する
+EXPERIMENTAL_FUNCTION	実験的な機能
+PREFER_SHIP_PLANE_TRAIN	輸出入は高速道路でなく、船/飛行機/列車の利用を優先します
+LOCAL_USE	この建物は地区内でのみサービスします
