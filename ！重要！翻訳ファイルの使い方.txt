@@ -54,6 +54,18 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+AdjustableBusinessConsumption2	".\2499372567\Locale"		2022/02/18 - MODで全て対応
+District RCI2			".\2498879299\Locale"		2022/02/18 - MODで全て対応
+OtherRailTrack Speed Increaser3	".\2498816218\Locale"		2022/02/18 - MODで全て対応
+Extended InfoPanel2		".\2498761388\Locale"		2022/02/18 - MODで全て対応
+District Stats2			".\2498554116\Locale"		2022/02/18 - MODで全て対応
+
+Road Sign Replacer		".\2654364627\Translations"	2022/02/16 - 新規に追加
+
+Extended InfoPanel2		".\2498761388\Locale"		2022/02/13 - Ver.アップの更新
+
+More Effective Transfer Manager (continued) ".\2747441985\Locales"	2022/02/11 - MODで全て対応
+
 More Effective Transfer Manager (continued) ".\2747441985\Locales"	2022/02/09 - 新規に追加
 
 More Effective Transfer Manager	".\1680840913\Locales"		2022/01/30 - 新規に追加
@@ -62,7 +74,7 @@ CSUR ToolBox			".\1959342332\Resources"	2022/01/30 - 新規に追加
 Advanced Vehicle Options	".\1548831935\Translations"	2022/01/27 - MODで全て対応
 
 Image Overlay 2			".\2616880500\Locale"		2022/01/19 - MODで全て対応
-注意: 作者側での機械翻訳で、少し表現がおかしいので修正を依頼中です
+注意: 作者側の機械翻訳で、少し表現がおかしいので修正を依頼中です
 
 algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		2022/01/09 - 新規に追加
 そして、sway氏の全てのMODが、CrowdInへの翻訳に移行しています
