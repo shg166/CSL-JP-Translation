@@ -54,26 +54,78 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
-AdjustableBusinessConsumption2	".\2499372567\Locale"		2022/02/18 - MODで全て対応
-District RCI2			".\2498879299\Locale"		2022/02/18 - MODで全て対応
-OtherRailTrack Speed Increaser3	".\2498816218\Locale"		2022/02/18 - MODで全て対応
-Extended InfoPanel2		".\2498761388\Locale"		2022/02/18 - MODで全て対応
-District Stats2			".\2498554116\Locale"		2022/02/18 - MODで全て対応
+Transfer Manager CE		".\2804719780\Locale"		2022/05/26 - MODで対応済
+
+Game Anarchy			".\2781804786\Locale"		2022/05/26 - MODで対応済
+Image Overlay 2			".\2616880500\Locale"		2022/05/26 - MODで対応済
+
+Imports and Exports CEO		".\2779701167\Locale"		2022/05/26 - MODで対応済
+
+ACME: a camera mod		".\2778750497\Locale"		2022/05/26 - MODで対応済
+Transfer Controller		".\2805340879\Locale"		2022/05/26 - MODで対応済
+
+algernon氏のMODで、Curb Height Adjuster / Repaintを消去		2022/05/26 - MODを消去
+CrowdInを使用した翻訳に移行したため、クラウドから消去します
+
+Simon Ryr氏のMODで、Procedural Objectsを消去			2022/05/26 - MODを消去
+作者とやり取り可能になり、翻訳の対応可能になったためクラウドから消去します
+
+M.S.Referee氏の以下のMODを消去					2022/05/26 - MODを消去
+Adjustable Business Consumption2 / District RCI2 / OtherRailTrack Speed Increaser3
+Extended InfoPanel2 / District Stats2
+作者とやり取り可能になり、翻訳の対応可能になったためクラウドから消去します
+
+Cambrians氏の以下のMODを消去					2022/05/26 - MODを消去
+Control Fire Spread More / Effective Transfer Manager (continued)
+作者側のMOD消去により、更新不能なのでクラウドから消去します
+詳細は下記、Steam スレッドを参照してください
+https://steamcommunity.com/app/255710/discussions/0/3281444052085860792/
+
+pcfantasy氏のMODで、More Effective Transfer Managerを消去	2022/05/26 - MODを消去
+現在のゲームバージョンでは機能していないようなので、クラウドから消去します
+
+-------------------------------------------------------------------------------
+
+Vehicle Skins			注意:手動での日本語化		2022/03/26 - 新規に追加
+Kltye氏のMODで使用方法は、Klyte45_MODのフォルダを確認してください
+
+Imports and Exports CEO		".\2779701167\Locale"		2022/03/16 - MODで対応済
+
+Birthday patchに対応する、日本語Localeファイル			2022/03/16 - MODで対応済
+日本語化MODが対応したので不要ですが、利用を続けても問題ありません
+
+Birthday patchに対応する、日本語Localeファイル			2022/03/13 - 新規に追加
+2022/03/10で更新された、ゲームバージョン 1.14.1-f2用になります
+詳しくはフォルダのテキストファイルを確認してください
+
+Control Fire Spread		".\2777238524\Locales"		2022/03/13 - MODで対応済
+
+Control Fire Spread		".\2777238524\Locales"		2022/03/12 - 新規に追加
+
+-------------------------------------------------------------------------------
+
+AdjustableBusinessConsumption2	".\2499372567\Locale"		2022/02/18 - MODで対応済
+District RCI2			".\2498879299\Locale"		2022/02/18 - MODで対応済
+OtherRailTrack Speed Increaser3	".\2498816218\Locale"		2022/02/18 - MODで対応済
+Extended InfoPanel2		".\2498761388\Locale"		2022/02/18 - MODで対応済
+District Stats2			".\2498554116\Locale"		2022/02/18 - MODで対応済
 
 Road Sign Replacer		".\2654364627\Translations"	2022/02/16 - 新規に追加
 
 Extended InfoPanel2		".\2498761388\Locale"		2022/02/13 - Ver.アップの更新
 
-More Effective Transfer Manager (continued) ".\2747441985\Locales"	2022/02/11 - MODで全て対応
+More Effective Transfer Manager (continued) ".\2747441985\Locales"	2022/02/11 - MODで対応済
 
 More Effective Transfer Manager (continued) ".\2747441985\Locales"	2022/02/09 - 新規に追加
+
+-------------------------------------------------------------------------------
 
 More Effective Transfer Manager	".\1680840913\Locales"		2022/01/30 - 新規に追加
 CSUR ToolBox			".\1959342332\Resources"	2022/01/30 - 新規に追加
 
-Advanced Vehicle Options	".\1548831935\Translations"	2022/01/27 - MODで全て対応
+Advanced Vehicle Options	".\1548831935\Translations"	2022/01/27 - MODで対応済
 
-Image Overlay 2			".\2616880500\Locale"		2022/01/19 - MODで全て対応
+Image Overlay 2			".\2616880500\Locale"		2022/01/19 - MODで対応済
 注意: 作者側の機械翻訳で、少し表現がおかしいので修正を依頼中です
 
 algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		2022/01/09 - 新規に追加
@@ -82,62 +134,72 @@ algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		202
 トラブル防止のため、クラウド内にある翻訳ファイルを消去します
 
 Image Overlay 2			".\2616880500\Locale"		2022/01/09 - 新規に追加
-Prop Anarchy			".\2611824446\Locale"		2022/01/09 - MODで全て対応
-More CitizenUnits		".\2654364627\Translations"	2022/01/09 - MODで全て対応
-More PathUnits			".\2710657019\Translations"	2022/01/09 - MODで全て対応
+Prop Anarchy			".\2611824446\Locale"		2022/01/09 - MODで対応済
+More CitizenUnits		".\2654364627\Translations"	2022/01/09 - MODで対応済
+More PathUnits			".\2710657019\Translations"	2022/01/09 - MODで対応済
 
-Stats				".\1410077595\Localization"	2021/12/21 - MODで全て対応
+-------------------------------------------------------------------------------
 
-Write The Signs							2021/12/14 - MODで全て対応
+Stats				".\1410077595\Localization"	2021/12/21 - MODで対応済
 
-Curb Height Adjuster		".\2674842365\Translations"	2021/12/07 - MODで全て対応
+Write The Signs							2021/12/14 - MODで対応済
+
+Curb Height Adjuster		".\2674842365\Translations"	2021/12/07 - MODで対応済
 
 Prop Anarchy			".\2611824446\Locale"		2021/12/05 - 新規に追加
+
+-------------------------------------------------------------------------------
 
 Klyte45氏のMODは、手動ですが日本語化が可能です			2021/11/14 - 新規に追加
 詳しくは、Klyte45_MODのフォルダを確認してください
 日本語化の対応状況も、フォルダ内のTXTファイルを確認してください
 
-Transit Vehicle Spawn Delay	".\2654110611\Translations"	2021/11/14 - MODで全て対応
-Real Time			".\1420955187\Localization"	2021/11/14 - MODで全て対応
+Transit Vehicle Spawn Delay	".\2654110611\Translations"	2021/11/14 - MODで対応済
+Real Time			".\1420955187\Localization"	2021/11/14 - MODで対応済
 
-Toggle Edge Scrolling		".\2645254941\Translations"	2021/11/05 - MODで全て対応
+Toggle Edge Scrolling		".\2645254941\Translations"	2021/11/05 - MODで対応済
+
+-------------------------------------------------------------------------------
 
 Addresses＆Names用のプリセットファイルを追加			2021/10/25 - 新規に追加
 Addresses＆Namesで使う、日本風の住所や人名のプリセットファイル
 詳しくはフォルダ内のテキストファイルを確認してください
 
-Procedural Objects		".\255710\1094334744"		2021/10/23 - MODで全て対応
+Procedural Objects		".\255710\1094334744"		2021/10/23 - MODで対応済
 
-Upgrade Untouchable: Convert stations				2021/10/19 - MODで全て対応
+Upgrade Untouchable: Convert stations				2021/10/19 - MODで対応済
 
-Transport Lines Manager						2021/10/15 - MODで全て対応
+Transport Lines Manager						2021/10/15 - MODで対応済
 
 Back-and-Forth 2 Module [PO]	".\255710\2618631338"		2021/10/04 - 新規に追加
 Gravity Module [PO]		".\255710\2404099470"		2021/10/04 - 新規に追加
 Procedural Objects		".\255710\1094334744"		2021/10/04 - 新規に追加
 
-Repaint				".\2101551127\Translations"	2021/10/01 - MODで全て対応
+Repaint				".\2101551127\Translations"	2021/10/01 - MODで対応済
 
-Zoning Adjuster			".\2389414419\Translations"	2021/09/09 - MODで全て対応
+-------------------------------------------------------------------------------
 
-Find It!2			".\2133885971\Translations"	2021/09/04 - MODで全て対応
-Yet Another Toolbar		".\2448994345\Translations"	2021/09/04 - MODで全て対応
+Zoning Adjuster			".\2389414419\Translations"	2021/09/09 - MODで対応済
 
-Advanced Building Level Control	".\2133705267\Translations"	2021/09/01 - MODで全て対応
+Find It!2			".\2133885971\Translations"	2021/09/04 - MODで対応済
+Yet Another Toolbar		".\2448994345\Translations"	2021/09/04 - MODで対応済
 
-RON,the network replacer	".\2405917899\Translations"	2021/08/26 - MODで全て対応
+Advanced Building Level Control	".\2133705267\Translations"	2021/09/01 - MODで対応済
 
-Realistic Population Revisited	".\2025147082\Translations"	2021/08/25 - MODで全て対応
+-------------------------------------------------------------------------------
 
-PtG to ABLC data converter	".\2389394773\Translations"	2021/08/23 - MODで全て対応
+RON,the network replacer	".\2405917899\Translations"	2021/08/26 - MODで対応済
 
-Network Skins			".\1758376843\Locale"		2021/08/21 - MODで全て対応
+Realistic Population Revisited	".\2025147082\Translations"	2021/08/25 - MODで対応済
 
-Garbage Bin Manager		".\2139035212\Translations"	2021/08/20 - MODで全て対応
-EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/20 - MODで全て対応
-Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/20 - MODで全て対応
-BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/20 - MODで全て対応
+PtG to ABLC data converter	".\2389394773\Translations"	2021/08/23 - MODで対応済
+
+Network Skins			".\1758376843\Locale"		2021/08/21 - MODで対応済
+
+Garbage Bin Manager		".\2139035212\Translations"	2021/08/20 - MODで対応済
+EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/20 - MODで対応済
+Lifecycle Rebalance Revisited	".\2027161563\Translations"	2021/08/20 - MODで対応済
+BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/20 - MODで対応済
 
 EYM:Enlighten Your Mouse	".\2455665392\Translations"	2021/08/19 - 語句の修正
 BOB,the Tree and Prop Replacer	".\2197863850\Translations"	2021/08/19 - Ver.アップの更新
