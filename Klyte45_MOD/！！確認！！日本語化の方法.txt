@@ -24,15 +24,16 @@ Kyle45氏のMODは、多言語に対応していますが翻訳ファイルの�
 Addresses＆names
 Asset Color Expander
 Custom Zone Mixer
-Electric Roads
+Prop Switcher
 Trees Respiration
 Vehicle Wealthizer
 Vehicle Master Control
-Prop Switcher
+Vehicle Skins
 
 日本語に対応済みのMOD
-下記のMODは、日本語に対応済み
+下記のMODは日本語に対応済みで、サブスクすればMODは日本語化されています。
 
+Electric Roads MOD
 Transport Lines Manager
 Upgrade Untouchable: Convert stations
 Write the Signs
@@ -74,3 +75,32 @@ MOD側で生成される翻訳ファイルを優先するはずですが、確�
 
 Translationフォルダにある各MODの翻訳ファイルは、バックアップが主目的です。
 冒頭で書いていますが、フォルダ内の翻訳ファイルは利用できません。
+
+-------------------------------------------------------------------------------
+
+Kyle45氏のMODの更新履歴
+ここにはKyle45氏に関するMODのみで、更新内容を記述しています。
+
+MODの名前				翻訳の方法		更新日＆変更点
+-------------------------------------------------------------------------------
+Electric Roads Mod			MODで対応		2022/06/10 - MODで対応済
+
+Vehicle Skins				手動で対応		2022/03/26 - 新規に追加
+
+Write The Signs				MODで対応		2021/12/14 - MODで対応済
+
+Addresses＆names				手動で対応		2021/11/14 - 新規に追加
+Asset Color Expander			手動で対応		2021/11/14 - 新規に追加
+Custom Zone Mixer			手動で対応		2021/11/14 - 新規に追加
+Prop Switcher				手動で対応		2021/11/14 - 新規に追加
+Trees Respiration			手動で対応		2021/11/14 - 新規に追加
+Vehicle Wealthizer			手動で対応		2021/11/14 - 新規に追加
+Vehicle Master Control			手動で対応		2021/11/14 - 新規に追加
+Vehicle Skins				手動で対応		2021/11/14 - 新規に追加
+
+Addresses＆Names用のプリセットファイルを追加			2021/10/25 - 新規に追加
+Addresses＆Namesで使う、日本風の住所や人名のプリセットファイル
+
+Upgrade Untouchable: Convert stations	MODで対応		2021/10/19 - MODで対応済
+
+Transport Lines Manager			MODで対応		2021/10/15 - MODで対応済
