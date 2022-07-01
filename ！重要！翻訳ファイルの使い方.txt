@@ -54,6 +54,26 @@ Macの標準的なインストール先 → "/Users/[ USER NAME ]/Library/Applic
 
 MODの名前			フォルダの位置			更新日＆変更点
 -------------------------------------------------------------------------------
+UltimateMod[BETA]						2022/07/01 - MODを消去
+CrowdInを使用した翻訳に移行したためクラウドから消去
+
+Transport Tool / Call Again					2022/07/01 - MODを消去
+CrowdInを使用した翻訳に移行したためクラウドから消去
+
+-------------------------------------------------------------------------------
+
+Electric Roads Mod						2022/06/10 - MODで対応済
+MODで対応したため手動更新用の翻訳ファイル内から、該当MODの翻訳内容を消去
+Kltye氏のMODで使用方法は、Klyte45_MODのフォルダを確認してください
+
+Transfer Manager CE						2022/06/10 - MODを消去
+CrowdInを使用した翻訳に移行したため、クラウドから消去
+
+Call Again			".\2818311563\Locale"		2022/06/10 - MODで対応済
+Transport Tool			".\2760310384\Locale"		2022/06/10 - MODで対応済
+
+-------------------------------------------------------------------------------
+
 Transfer Manager CE		".\2804719780\Locale"		2022/05/26 - MODで対応済
 
 Game Anarchy			".\2781804786\Locale"		2022/05/26 - MODで対応済
@@ -64,25 +84,25 @@ Imports and Exports CEO		".\2779701167\Locale"		2022/05/26 - MODで対応済
 ACME: a camera mod		".\2778750497\Locale"		2022/05/26 - MODで対応済
 Transfer Controller		".\2805340879\Locale"		2022/05/26 - MODで対応済
 
-algernon氏のMODで、Curb Height Adjuster / Repaintを消去		2022/05/26 - MODを消去
-CrowdInを使用した翻訳に移行したため、クラウドから消去します
+Curb Height Adjuster / Repaint					2022/05/26 - MODを消去
+CrowdInを使用した翻訳に移行したため、クラウドから消去
 
-Simon Ryr氏のMODで、Procedural Objectsを消去			2022/05/26 - MODを消去
-作者とやり取り可能になり、翻訳の対応可能になったためクラウドから消去します
+Procedural Objects						2022/05/26 - MODを消去
+作者のSimon Ryr氏と翻訳のやり取りが可能になったのでクラウドから消去
 
 M.S.Referee氏の以下のMODを消去					2022/05/26 - MODを消去
 Adjustable Business Consumption2 / District RCI2 / OtherRailTrack Speed Increaser3
-Extended InfoPanel2 / District Stats2
-作者とやり取り可能になり、翻訳の対応可能になったためクラウドから消去します
+Extended InfoPanel2 / District Stats2 / Imports and Exports CEO
+作者と翻訳のやり取りが可能になったのでクラウドから消去
 
 Cambrians氏の以下のMODを消去					2022/05/26 - MODを消去
 Control Fire Spread More / Effective Transfer Manager (continued)
-作者側のMOD消去により、更新不能なのでクラウドから消去します
+作者側のMOD消去により、更新不能なのでクラウドから消去
 詳細は下記、Steam スレッドを参照してください
 https://steamcommunity.com/app/255710/discussions/0/3281444052085860792/
 
 pcfantasy氏のMODで、More Effective Transfer Managerを消去	2022/05/26 - MODを消去
-現在のゲームバージョンでは機能していないようなので、クラウドから消去します
+現在のゲームバージョンでは機能していないようなのでクラウドから消去
 
 -------------------------------------------------------------------------------
 
@@ -128,7 +148,7 @@ Advanced Vehicle Options	".\1548831935\Translations"	2022/01/27 - MODで対応�
 Image Overlay 2			".\2616880500\Locale"		2022/01/19 - MODで対応済
 注意: 作者側の機械翻訳で、少し表現がおかしいので修正を依頼中です
 
-algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		2022/01/09 - 新規に追加
+algernon氏の一部のMODで、CrowdInで翻訳が可能になりました		2022/01/09 - MODを消去
 そして、sway氏の全てのMODが、CrowdInへの翻訳に移行しています
 整合性の確保と翻訳ファイルの構造が変わるため、今後は利用できません
 トラブル防止のため、クラウド内にある翻訳ファイルを消去します
