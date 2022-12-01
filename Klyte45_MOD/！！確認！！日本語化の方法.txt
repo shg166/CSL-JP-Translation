@@ -83,6 +83,18 @@ Kyle45氏のMODの更新履歴
 
 MODの名前				翻訳の方法		更新日＆変更点
 -------------------------------------------------------------------------------
+注意: 新しいMODと翻訳ファイルについて
+新しいMODやアップデートで、Crowdinを使用した翻訳に移行しています。
+Crowdinの翻訳に移行したMODは、手動の翻訳ファイルは全て使用出来ないので注意して下さい。
+
+Electric Roads Mod			MODで対応		2022/11/12 - Crowdinに移行
+Vehicle Skins				MODで対応		2022/11/12 - Crowdinに移行
+Upgrade Untouchable			MODで対応		2022/11/12 - Crowdinに移行
+Custom Data Mod				MODで対応		2022/11/12 - Crowdinに移行
+Write Everywhere			MODで対応		2022/11/12 - Crowdinに移行
+
+-------------------------------------------------------------------------------
+
 Electric Roads Mod			MODで対応		2022/06/10 - MODで対応済
 
 Vehicle Skins				手動で対応		2022/03/26 - 新規に追加
